@@ -33,4 +33,4 @@
  - source020 [https://politepol.com/fd/C8JCiAISyeUs.xml](https://politepol.com/fd/C8JCiAISyeUs.xml) -> [Forbes_Daily](rss/Forbes_Daily.xml)
  - source021 [https://fetchrss.com/rss/61c328520dbe482d810dbec2667c93bbba9f15b9a309f962.xml](https://fetchrss.com/rss/61c328520dbe482d810dbec2667c93bbba9f15b9a309f962.xml) -> [Goings_On_|_The_New_Yorker](rss/Goings_On_%7C_The_New_Yorker.xml)
  - source022 [https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/series/us-morning-briefing/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/series/us-morning-briefing/rss.xml) -> [NYT_>_The_Morning_Newsletter](rss/NYT_%3E_The_Morning_Newsletter.xml)
- - source023 [https://www.bloomberg.com/authors/AWWOLHYpDyo/samantha-stewart.rss](https://www.bloomberg.com/authors/AWWOLHYpDyo/samantha-stewart.rss) -> [Morning_Briefing_Asia_Bloomberg](rss/Morning_Briefing_Asia_Bloomberg.xml)
+ - source023 [https://politepol.com/fd/iZVG8rUDvbg9.xml](https://politepol.com/fd/iZVG8rUDvbg9.xml) -> [Morning_Briefing_Asia_Bloomberg](rss/Morning_Briefing_Asia_Bloomberg.xml)
