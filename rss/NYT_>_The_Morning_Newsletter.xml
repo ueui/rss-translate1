@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Nov 2024 11:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 12:11:30 GMT</lastBuildDate>
+    <item>
+      <title>特朗普总统再次</title>
+      <link>https://www.nytimes.com/2024/11/06/briefing/donald-trump-victory-kamala-harris.html</link>
+      <description><![CDATA[我们报道了唐纳德·特朗普的惊人回归、共和党参议院以及美国的右倾化。]]></description>
+      <guid>https://www.nytimes.com/2024/11/06/briefing/donald-trump-victory-kamala-harris.html</guid>
+      <pubDate>Wed, 06 Nov 2024 12:11:30 GMT</pubDate>
+    </item>
     <item>
       <title>今天是选举日</title>
       <link>https://www.nytimes.com/2024/11/05/briefing/election-day-2024-harris-trump.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们探讨总统候选人的健康政策建议。]]></description>
       <guid>https://www.nytimes.com/2024/10/28/briefing/health-care-2024-election-harris-trump.html</guid>
       <pubDate>Mon, 28 Oct 2024 16:36:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>古典音乐的发现</title>
-      <link>https://www.nytimes.com/2024/10/27/briefing/chopin-lang-lang-classical-music.html</link>
-      <description><![CDATA[发现了肖邦的一首不知名的华尔兹舞曲。]]></description>
-      <guid>https://www.nytimes.com/2024/10/27/briefing/chopin-lang-lang-classical-music.html</guid>
-      <pubDate>Sun, 27 Oct 2024 11:24:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
