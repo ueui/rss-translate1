@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 14:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 11:45:18 GMT</lastBuildDate>
+    <item>
+      <title>选举后的第二天</title>
+      <link>https://www.nytimes.com/2024/11/07/briefing/donald-trump-win-kamala-harris.html</link>
+      <description><![CDATA[我们将报道特朗普如何获胜以及更多选举结果。]]></description>
+      <guid>https://www.nytimes.com/2024/11/07/briefing/donald-trump-win-kamala-harris.html</guid>
+      <pubDate>Thu, 07 Nov 2024 11:45:18 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普总统再次</title>
       <link>https://www.nytimes.com/2024/11/06/briefing/donald-trump-victory-kamala-harris.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们报道的是美国工人阶级的大多数。]]></description>
       <guid>https://www.nytimes.com/2024/10/29/briefing/trump-harris-2024-election.html</guid>
       <pubDate>Tue, 29 Oct 2024 13:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年医疗保健的利害关系</title>
-      <link>https://www.nytimes.com/2024/10/28/briefing/health-care-2024-election-harris-trump.html</link>
-      <description><![CDATA[我们探讨总统候选人的健康政策建议。]]></description>
-      <guid>https://www.nytimes.com/2024/10/28/briefing/health-care-2024-election-harris-trump.html</guid>
-      <pubDate>Mon, 28 Oct 2024 16:36:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
