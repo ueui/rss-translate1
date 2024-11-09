@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 16:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 11:09:31 GMT</lastBuildDate>
+    <item>
+      <title>偏袒</title>
+      <link>https://www.nytimes.com/2024/11/09/briefing/playing-favorites.html</link>
+      <description><![CDATA[最能打动我们的食物、音乐和文化可能不是很好，但这并不会削弱它们带来安慰和愉悦的力量。]]></description>
+      <guid>https://www.nytimes.com/2024/11/09/briefing/playing-favorites.html</guid>
+      <pubDate>Sat, 09 Nov 2024 11:09:31 GMT</pubDate>
+    </item>
     <item>
       <title>通货膨胀如何影响投票</title>
       <link>https://www.nytimes.com/2024/11/08/briefing/how-inflation-shaped-voting.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[选举将如何改变法庭。]]></description>
       <guid>https://www.nytimes.com/2024/10/31/briefing/the-2024-stakes-for-judges.html</guid>
       <pubDate>Thu, 31 Oct 2024 14:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普对民主的敌意</title>
-      <link>https://www.nytimes.com/2024/10/30/briefing/trump-democracy-2024-election.html</link>
-      <description><![CDATA[我们探讨特朗普可能破坏民主传统的方式。]]></description>
-      <guid>https://www.nytimes.com/2024/10/30/briefing/trump-democracy-2024-election.html</guid>
-      <pubDate>Wed, 30 Oct 2024 10:43:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
