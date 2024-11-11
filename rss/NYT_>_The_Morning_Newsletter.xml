@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sun, 10 Nov 2024 12:59:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 11:40:27 GMT</lastBuildDate>
+    <item>
+      <title>获胜的民主党人</title>
+      <link>https://www.nytimes.com/2024/11/11/briefing/democrats-who-won.html</link>
+      <description><![CDATA[我们正在报道今年成功的民主党竞选活动。]]></description>
+      <guid>https://www.nytimes.com/2024/11/11/briefing/democrats-who-won.html</guid>
+      <pubDate>Mon, 11 Nov 2024 11:40:27 GMT</pubDate>
+    </item>
     <item>
       <title>重温哈莱姆文艺复兴</title>
       <link>https://www.nytimes.com/2024/11/10/briefing/revisiting-the-harlem-renaissance.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[夏令时明天结束。你将如何利用这额外的一小时？]]></description>
       <guid>https://www.nytimes.com/2024/11/02/briefing/daylight-saving-time.html</guid>
       <pubDate>Sat, 02 Nov 2024 10:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>国会竞选</title>
-      <link>https://www.nytimes.com/2024/11/01/briefing/congressional-races-2024-election.html</link>
-      <description><![CDATA[我们对下周的选举进行了预测，并分析了分裂或统一的政府对各党派意味着什么。]]></description>
-      <guid>https://www.nytimes.com/2024/11/01/briefing/congressional-races-2024-election.html</guid>
-      <pubDate>Fri, 01 Nov 2024 10:46:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
