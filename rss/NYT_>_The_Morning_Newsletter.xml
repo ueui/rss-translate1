@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Mon, 11 Nov 2024 11:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 11:27:06 GMT</lastBuildDate>
+    <item>
+      <title>共和党三连胜</title>
+      <link>https://www.nytimes.com/2024/11/12/briefing/a-republican-trifecta.html</link>
+      <description><![CDATA[有了众议院，共和党明年将完全控制联邦政府。]]></description>
+      <guid>https://www.nytimes.com/2024/11/12/briefing/a-republican-trifecta.html</guid>
+      <pubDate>Tue, 12 Nov 2024 11:26:54 GMT</pubDate>
+    </item>
     <item>
       <title>获胜的民主党人</title>
       <link>https://www.nytimes.com/2024/11/11/briefing/democrats-who-won.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们正在报道卡玛拉·哈里斯和唐纳德·特朗普所承担的战略风险。]]></description>
       <guid>https://www.nytimes.com/2024/11/03/briefing/20-20-foresight.html</guid>
       <pubDate>Mon, 04 Nov 2024 14:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>花时间</title>
-      <link>https://www.nytimes.com/2024/11/02/briefing/daylight-saving-time.html</link>
-      <description><![CDATA[夏令时明天结束。你将如何利用这额外的一小时？]]></description>
-      <guid>https://www.nytimes.com/2024/11/02/briefing/daylight-saving-time.html</guid>
-      <pubDate>Sat, 02 Nov 2024 10:02:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
