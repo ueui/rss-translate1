@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 15 Nov 2024 06:44:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 11:56:37 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的税收计划</title>
+      <link>https://www.nytimes.com/2024/11/15/briefing/trump-tax-plans.html</link>
+      <description><![CDATA[共和党明年可能采取的减税措施有三种情况。]]></description>
+      <guid>https://www.nytimes.com/2024/11/15/briefing/trump-tax-plans.html</guid>
+      <pubDate>Fri, 15 Nov 2024 11:49:14 GMT</pubDate>
+    </item>
     <item>
       <title>挑选司法部长</title>
       <link>https://www.nytimes.com/2024/11/14/briefing/picking-matt-gaetz.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国已向右转，唐纳德·特朗普令人震惊地卷土重来，并获得了共和党参议院的支持。]]></description>
       <guid>https://www.nytimes.com/2024/11/06/briefing/donald-trump-victory-kamala-harris.html</guid>
       <pubDate>Wed, 06 Nov 2024 14:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天是选举日</title>
-      <link>https://www.nytimes.com/2024/11/05/briefing/election-day-2024-harris-trump.html</link>
-      <description><![CDATA[今天很可能改变美国的轨迹。]]></description>
-      <guid>https://www.nytimes.com/2024/11/05/briefing/election-day-2024-harris-trump.html</guid>
-      <pubDate>Tue, 05 Nov 2024 11:44:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
