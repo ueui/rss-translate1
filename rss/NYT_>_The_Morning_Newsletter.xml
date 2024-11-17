@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sat, 16 Nov 2024 11:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 12:00:42 GMT</lastBuildDate>
+    <item>
+      <title>屠龙二十年</title>
+      <link>https://www.nytimes.com/2024/11/17/briefing/world-of-warcraft-20th-anniversary.html</link>
+      <description><![CDATA[《魔兽世界》于二十年前首次发布。]]></description>
+      <guid>https://www.nytimes.com/2024/11/17/briefing/world-of-warcraft-20th-anniversary.html</guid>
+      <pubDate>Sun, 17 Nov 2024 12:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>满足感与生产力</title>
       <link>https://www.nytimes.com/2024/11/16/briefing/satisfying-vs-productive.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们解释通货膨胀在选举中的作用。]]></description>
       <guid>https://www.nytimes.com/2024/11/08/briefing/how-inflation-shaped-voting.html</guid>
       <pubDate>Fri, 08 Nov 2024 11:18:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>选举后的第二天</title>
-      <link>https://www.nytimes.com/2024/11/07/briefing/donald-trump-win-kamala-harris.html</link>
-      <description><![CDATA[我们将报道特朗普如何获胜以及更多选举结果。]]></description>
-      <guid>https://www.nytimes.com/2024/11/07/briefing/donald-trump-win-kamala-harris.html</guid>
-      <pubDate>Thu, 07 Nov 2024 11:45:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
