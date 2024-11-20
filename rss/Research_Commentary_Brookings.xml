@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>研究与评论 | 布鲁金斯学会</title>
+    <link>https://phantomjscloud.com/api/browser/v2/ak-8k5wj-024fp-57ys7-k1j3y-ejm9d/?request=%7B%22url%22%3A%22https%3A%2F%2Fwww.brookings.edu%2Fresearch-commentary%2F%22%2C%22renderType%22%3A%22html%22%2C%22requestSettings%22%3A%7B%22userAgent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%28KHTML%2C%20like%20Gecko%29%20Chrome%2F69.0.3497.100%20Safari%2F537.36%22%7D%7D</link>
+    <description>探索布鲁金斯学会的研究和评论，加深您对地方、国家和全球挑战的理解。</description>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>国会对预算赤字预测有何反应？</title>
+      <link>https://www.brookings.edu/articles/how-does-congress-react-to-budget-deficit-projections/</link>
+      <description><![CDATA[Alan J. Auerbach、Janice C. Eberly、William G. Gale、Jón Steinsson（使用 FetchRSS 生成的 Feed）]]></description>
+      <guid>https://www.brookings.edu/articles/how-does-congress-react-to-budget-deficit-projections/</guid>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IIJA 和 IRA 为美国农村地区提供的主要融资机会将由中介机构实施，并且可能需要数年时间</title>
+      <link>https://www.brookings.edu/articles/iija-ira-chips-funding-opportunities-for-rural-america-will-be-implemented-by-intermediaries-and-may-take-years/</link>
+      <description><![CDATA[Anthony F. Pipa、Zoe Swarzenski（使用 FetchRSS 生成的 Feed）]]></description>
+      <guid>https://www.brookings.edu/articles/iija-ira-chips-funding-opportunities-for-rural-america-will-be-implemented-by-intermediaries-and-may-take-years/</guid>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨部门支持制定解决健康问题社会决定因素的政策框架</title>
+      <link>https://jamanetwork.com/journals/jama-health-forum/fullarticle/2826550</link>
+      <description><![CDATA[Stuart M. Butler（使用 FetchRSS 生成的 Feed）]]></description>
+      <guid>https://jamanetwork.com/journals/jama-health-forum/fullarticle/2826550</guid>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼日利亚采购流程的透明度</title>
+      <link>https://www.brookings.edu/articles/transparency-in-the-procurement-process-in-nigeria/</link>
+      <description><![CDATA[Adedeji Adeniran、Isiaka Akande Raifu、Great Nnamani（使用 FetchRSS 生成的 Feed）]]></description>
+      <guid>https://www.brookings.edu/articles/transparency-in-the-procurement-process-in-nigeria/</guid>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国数字经济的未来取决于公平的就业机会</title>
+      <link>https://www.brookings.edu/articles/the-future-of-the-us-digital-economy-depends-on-equitable-access-to-its-jobs/</link>
+      <description><![CDATA[Robert Maxim、Mark Muro、Yang You、Carl Romer（使用 FetchRSS 生成的 Feed）]]></description>
+      <guid>https://www.brookings.edu/articles/the-future-of-the-us-digital-economy-depends-on-equitable-access-to-its-jobs/</guid>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
