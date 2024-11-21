@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Nov 2024 01:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 11:21:46 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的关税</title>
+      <link>https://www.nytimes.com/2024/11/21/briefing/trumps-tariffs.html</link>
+      <description><![CDATA[我们探讨了他承诺对进入美国的外国产品征收费用。]]></description>
+      <guid>https://www.nytimes.com/2024/11/21/briefing/trumps-tariffs.html</guid>
+      <pubDate>Thu, 21 Nov 2024 11:21:46 GMT</pubDate>
+    </item>
     <item>
       <title>对乌克兰的最后一击？</title>
       <link>https://www.nytimes.com/2024/11/20/briefing/ukraine-russia-trump.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[有了众议院，共和党明年将完全控制联邦政府。]]></description>
       <guid>https://www.nytimes.com/2024/11/12/briefing/a-republican-trifecta.html</guid>
       <pubDate>Tue, 12 Nov 2024 16:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>获胜的民主党人</title>
-      <link>https://www.nytimes.com/2024/11/11/briefing/democrats-who-won.html</link>
-      <description><![CDATA[我们正在报道今年成功的民主党竞选活动。]]></description>
-      <guid>https://www.nytimes.com/2024/11/11/briefing/democrats-who-won.html</guid>
-      <pubDate>Mon, 11 Nov 2024 11:40:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
