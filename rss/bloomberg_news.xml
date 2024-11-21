@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>bloomberg.com 谷歌新闻</title>
-    <link>https://news.google.com/search?ceid=US%3Aen&gl=US&hl=en-US&q=when%3A24h+allinurl%3Abloomberg.com</link>
+    <title>“when:24h allinurl:bloomberg.com” - Google 新闻</title>
+    <link>https://news.google.com/search?gl=US&hl=en&q=when%3A24h+allinurl%3Abloomberg.com</link>
     <description>谷歌新闻</description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:56:24 GMT</lastBuildDate>
+    <item>
+      <title>PDMA 称希腊明年将发行 80 亿欧元新债券 - 彭博社</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFGbXJ3WS1pOTYteXlJNllXenRaQ1k1RkdsbmZ6VzlEWDAzZTYwS1JJVjk0RWxyVXJTamxHNjFtUnZIam14TzFHcVFPUzJqMG1MY1QtbkNiOVY3cmRXVE9lTUVxV0JaMXlPMWU4UXpPenJUcldVS0oyZ3FZdzd4TER6bTROTFoxNndTQW9QdkQxNmhYeVdQSHFkQVlLdXRjZmxhNXlLcXp4dlR3?oc=5</link>
+      <description><![CDATA[希腊明年将发行 80 亿欧元新债券，PDMA   彭博社（Feed 由 FetchRSS 生成）]]></description>
+      <guid>https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFGbXJ3WS1pOTYteXlJNllXenRaQ1k1RkdsbmZ6VzlEWDAzZTYwS1JJVjk0RWxyVXJTamxHNjFtUnZIam14TzFHcVFPUzJqMG1MY1QtbkNiOVY3cmRXVE9lTUVxV0JaMXlPMWU4UXpPenJUcldVS0oyZ3FZdzd4TER6bTROTFoxNndTQW9QdkQxNmhYeVdQSHFkQVlLdXRjZmxhNXlLcXp4dlR3?oc=5</guid>
+      <pubDate>Thu, 21 Nov 2024 12:56:24 GMT</pubDate>
+    </item>
     <item>
       <title>Palm 作为全球“万能石油”的霸主地位正受到挑战 - 彭博社</title>
       <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXJQLUl0V3NhdUJVYWtlZWNQc2RFeVFNSGJNazR0ZGpMcXhXWndYNUNKbmlreFQ2MHVXZkN6QloySkZOUXB6ZHZ0d1dUdUVfY1ZFTnFVWFdWNUVaczYxYmprbkRFYVo0RlVFeGo3WE9xTmN5a2dWYUtwRzRISlUtRkp3bFBHeGNiLU9tUVdsLUpfaXFYRF9sVE5qbjJSbWZEeG1udTh0S3I4dV9uSjF3UlgzU2ZIU0k?oc=5</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[据称星巴克正在考虑出售中国业务股份  彭博社（Feed 由 FetchRSS 生成）]]></description>
       <guid>https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXdkekFyUzFkM3VmbER2Ynh5NThMNGNkRERSWm40TnhHbHZOUUlqU29GZWRvd0ZmVUJla3QwQmdfMmo5TWdWaUhTOUp6OHdFNWhnczlUMTg0MmFjYkxXeW9IQ01KTWZtNE9nM3hPVTl1WmlaaC1DUG9PQjZEZVl5eUtILVZyWHZ5Z1dybFJ5NEFGWDhaVUVQZVp4MDRqT0VQRU9tbjhFWmxDT3g1NnhkTXJCanA?oc=5</guid>
       <pubDate>Thu, 21 Nov 2024 11:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国央行在“疲软”经济中警惕商业地产 - 彭博社</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHZLbEZ6bElWZE54ODA3dEZHcWtPZjVxMWN2eXBoYXI0V1BhWllZckZYR01YUndGem9nVmVZaHdtOFdUdDY5VEJWZHlaRlk5dlJKSUFpVmlUYkRVUExGWlBRNFh2aDBVX3RmRHZ6VmdEaGhnMm1IQ2ZSQUJpc1dVZlJTWlhDMDRjTVJmTXprYkhIS0ZvN1UyN3F0dnRXdk5iOFpMZGR6SEIwVERVX3c?oc=5</link>
-      <description><![CDATA[德国央行对“疲软”商业地产保持警惕经济  彭博（使用 FetchRSS 生成的 Feed）]]></description>
-      <guid>https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHZLbEZ6bElWZE54ODA3dEZHcWtPZjVxMWN2eXBoYXI0V1BhWllZckZYR01YUndGem9nVmVZaHdtOFdUdDY5VEJWZHlaRlk5dlJKSUFpVmlUYkRVUExGWlBRNFh2aDBVX3RmRHZ6VmdEaGhnMm1IQ2ZSQUJpc1dVZlJTWlhDMDRjTVJmTXprYkhIS0ZvN1UyN3F0dnRXdk5iOFpMZGR6SEIwVERVX3c?oc=5</guid>
-      <pubDate>Thu, 21 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>气候谈判进入最后阶段，COP29 各方在融资协议上产生分歧 - 彭博</title>
