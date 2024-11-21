@@ -1,44 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>“when:24h allinurl:bloomberg.com” - Google 新闻</title>
-    <link>https://news.google.com/search?gl=US&hl=en&q=when%3A24h+allinurl%3Abloomberg.com</link>
-    <description>谷歌新闻</description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:56:24 GMT</lastBuildDate>
+    <title>Google 新闻 - 搜索</title>
+    <link>https://news.google.com/search?q=when:24h+allinurl:bloomberg.com</link>
+    <description>由 PolitePol 生成。
+来源页面：https://news.google.com/search?q=when:24h+allinurl:bloomberg.com</description>
+    <lastBuildDate>Thu, 21 Nov 2024 14:54:58 GMT</lastBuildDate>
     <item>
-      <title>PDMA 称希腊明年将发行 80 亿欧元新债券 - 彭博社</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFGbXJ3WS1pOTYteXlJNllXenRaQ1k1RkdsbmZ6VzlEWDAzZTYwS1JJVjk0RWxyVXJTamxHNjFtUnZIam14TzFHcVFPUzJqMG1MY1QtbkNiOVY3cmRXVE9lTUVxV0JaMXlPMWU4UXpPenJUcldVS0oyZ3FZdzd4TER6bTROTFoxNndTQW9QdkQxNmhYeVdQSHFkQVlLdXRjZmxhNXlLcXp4dlR3?oc=5</link>
-      <description><![CDATA[希腊明年将发行 80 亿欧元新债券，PDMA   彭博社（Feed 由 FetchRSS 生成）]]></description>
-      <guid>https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFGbXJ3WS1pOTYteXlJNllXenRaQ1k1RkdsbmZ6VzlEWDAzZTYwS1JJVjk0RWxyVXJTamxHNjFtUnZIam14TzFHcVFPUzJqMG1MY1QtbkNiOVY3cmRXVE9lTUVxV0JaMXlPMWU4UXpPenJUcldVS0oyZ3FZdzd4TER6bTROTFoxNndTQW9QdkQxNmhYeVdQSHFkQVlLdXRjZmxhNXlLcXp4dlR3?oc=5</guid>
-      <pubDate>Thu, 21 Nov 2024 12:56:24 GMT</pubDate>
+      <title>奥德·阿恩·韦斯塔德 (Odd Arne Westad) 谈中国如何首次加入全球资本主义经济</title>
+      <link>https://news.google.com/read/CBMivwFBVV95cUxPdXZDUzNseGZjMi1ETE1mNThabVFxaEx6ZHgtSFVaSGNNZlVRS2pyc1JtOVU5Zkt1blhUTFg5QVBwVGg2V3NhUGd6MV9GVEhqaFlOLXRXT01ud1FnRFRKQkptY3hwSmYyTTdoVWZNLVJHalh1OXhDMFVCWFBhOU1sNVpKNmY3Z2NLOHdmTjNTZ2ZXWXFqMi1zbk91QXc5WWEyYTlKenduWWZxdVlESU9wQWF2eVhMdTd3Z3dMUEVWZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMivwFBVV95cUxPdXZDUzNseGZjMi1ETE1mNThabVFxaEx6ZHgtSFVaSGNNZlVRS2pyc1JtOVU5Zkt1blhUTFg5QVBwVGg2V3NhUGd6MV9GVEhqaFlOLXRXT01ud1FnRFRKQkptY3hwSmYyTTdoVWZNLVJHalh1OXhDMFVCWFBhOU1sNVpKNmY3Z2NLOHdmTjNTZ2ZXWXFqMi1zbk91QXc5WWEyYTlKenduWWZxdVlESU9wQWF2eVhMdTd3Z3dMUEVWZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>Palm 作为全球“万能石油”的霸主地位正受到挑战 - 彭博社</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXJQLUl0V3NhdUJVYWtlZWNQc2RFeVFNSGJNazR0ZGpMcXhXWndYNUNKbmlreFQ2MHVXZkN6QloySkZOUXB6ZHZ0d1dUdUVfY1ZFTnFVWFdWNUVaczYxYmprbkRFYVo0RlVFeGo3WE9xTmN5a2dWYUtwRzRISlUtRkp3bFBHeGNiLU9tUVdsLUpfaXFYRF9sVE5qbjJSbWZEeG1udTh0S3I4dV9uSjF3UlgzU2ZIU0k?oc=5</link>
-      <description><![CDATA[Palm 的统治世界的“石油万能钥匙”正面临挑战  彭博社（Feed 由 FetchRSS 生成）]]></description>
-      <guid>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXJQLUl0V3NhdUJVYWtlZWNQc2RFeVFNSGJNazR0ZGpMcXhXWndYNUNKbmlreFQ2MHVXZkN6QloySkZOUXB6ZHZ0d1dUdUVfY1ZFTnFVWFdWNUVaczYxYmprbkRFYVo0RlVFeGo3WE9xTmN5a2dWYUtwRzRISlUtRkp3bFBHeGNiLU9tUVdsLUpfaXFYRF9sVE5qbjJSbWZEeG1udTh0S3I4dV9uSjF3UlgzU2ZIU0k?oc=5</guid>
-      <pubDate>Thu, 21 Nov 2024 12:24:34 GMT</pubDate>
+      <title>如果产量低，为什么英国农田如此昂贵？</title>
+      <link>https://news.google.com/read/CBMipgFBVV95cUxNekU1VEJ1cEhRSkZKTEh4bXZlUjcxWHVWc2I3Sko2S1VLVzNMRGF6VHpidzYxenFSWnhpTTFZV1BkZGtVXzViTUJDdVlKN3FoNGtQQ2Z2T1FQTWlBV21JQlpIR1BCMVFrWEhzajBZaEhpZkRISWFaSEp6UU9LdS1yaXNsdUF1MEkzNVpXNmN5ZDllRFBLSEZKZVRwNEp0dUR2WFptV3B3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMipgFBVV95cUxNekU1VEJ1cEhRSkZKTEh4bXZlUjcxWHVWc2I3Sko2S1VLVzNMRGF6VHpidzYxenFSWnhpTTFZV1BkZGtVXzViTUJDdVlKN3FoNGtQQ2Z2T1FQTWlBV21JQlpIR1BCMVFrWEhzajBZaEhpZkRISWFaSEp6UU9LdS1yaXNsdUF1MEkzNVpXNmN5ZDllRFBLSEZKZVRwNEp0dUR2WFptV3B3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:54:34 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛股价有望迎来史诗般的一年，而 Target 股价则暴跌 - 彭博社</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUdLVkJSZllRRTJFcExNU2VCcldicENQZXFqZ3lLQTRHejBhNjhiWGQ3ajUwM1NpaTVJWk8tMUtyWUNGbmpJSEJLcFo2d2xkU3dBR0UzMVBMajU3S0xtLVVOWVcwenhvdFAtdW0zRmtuZG91STU1VEhJZ2dhRTU5T0JTZm10N0NvdEFIaVRnMVh6UC1DOHBmLTVaSlIxZy0xMnlJeFZRc0xfNDJpcnJSeTVpRQ?oc=5</link>
-      <description><![CDATA[沃尔玛的股票将迎来史诗般的一年，因为目标低迷  彭博社（使用 FetchRSS 生成的 Feed）]]></description>
-      <guid>https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUdLVkJSZllRRTJFcExNU2VCcldicENQZXFqZ3lLQTRHejBhNjhiWGQ3ajUwM1NpaTVJWk8tMUtyWUNGbmpJSEJLcFo2d2xkU3dBR0UzMVBMajU3S0xtLVVOWVcwenhvdFAtdW0zRmtuZG91STU1VEhJZ2dhRTU5T0JTZm10N0NvdEFIaVRnMVh6UC1DOHBmLTVaSlIxZy0xMnlJeFZRc0xfNDJpcnJSeTVpRQ?oc=5</guid>
-      <pubDate>Thu, 21 Nov 2024 11:33:35 GMT</pubDate>
+      <title>据称星巴克正在考虑出售其在中国的业务股份</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxNMXdkekFyUzFkM3VmbER2Ynh5NThMNGNkRERSWm40TnhHbHZOUUlqU29GZWRvd0ZmVUJla3QwQmdfMmo5TWdWaUhTOUp6OHdFNWhnczlUMTg0MmFjYkxXeW9IQ01KTWZtNE9nM3hPVTl1WmlaaC1DUG9PQjZEZVl5eUtILVZyWHZ5Z1dybFJ5NEFGWDhaVUVQZVp4MDRqT0VQRU9tbjhFWmxDT3g1NnhkTXJCanA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitAFBVV95cUxNMXdkekFyUzFkM3VmbER2Ynh5NThMNGNkRERSWm40TnhHbHZOUUlqU29GZWRvd0ZmVUJla3QwQmdfMmo5TWdWaUhTOUp6OHdFNWhnczlUMTg0MmFjYkxXeW9IQ01KTWZtNE9nM3hPVTl1WmlaaC1DUG9PQjZEZVl5eUtILVZyWHZ5Z1dybFJ5NEFGWDhaVUVQZVp4MDRqT0VQRU9tbjhFWmxDT3g1NnhkTXJCanA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>星巴克考虑出售中国业务股份 - 彭博社</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXdkekFyUzFkM3VmbER2Ynh5NThMNGNkRERSWm40TnhHbHZOUUlqU29GZWRvd0ZmVUJla3QwQmdfMmo5TWdWaUhTOUp6OHdFNWhnczlUMTg0MmFjYkxXeW9IQ01KTWZtNE9nM3hPVTl1WmlaaC1DUG9PQjZEZVl5eUtILVZyWHZ5Z1dybFJ5NEFGWDhaVUVQZVp4MDRqT0VQRU9tbjhFWmxDT3g1NnhkTXJCanA?oc=5</link>
-      <description><![CDATA[据称星巴克正在考虑出售中国业务股份  彭博社（Feed 由 FetchRSS 生成）]]></description>
-      <guid>https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXdkekFyUzFkM3VmbER2Ynh5NThMNGNkRERSWm40TnhHbHZOUUlqU29GZWRvd0ZmVUJla3QwQmdfMmo5TWdWaUhTOUp6OHdFNWhnczlUMTg0MmFjYkxXeW9IQ01KTWZtNE9nM3hPVTl1WmlaaC1DUG9PQjZEZVl5eUtILVZyWHZ5Z1dybFJ5NEFGWDhaVUVQZVp4MDRqT0VQRU9tbjhFWmxDT3g1NnhkTXJCanA?oc=5</guid>
-      <pubDate>Thu, 21 Nov 2024 11:29:34 GMT</pubDate>
+      <title>卡森·布洛克认为阳光地带的公寓大楼存在问题</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxPaVZuRkZidzcwREVQYjR5R1o3ZnVyVHk0dFEwWjlacWFsaktIaHZiU3JMS0g1TXZCbVVaMHdFRS1YZGgwVVBfWXR4Xzk0QkdmZXAyUFl3Um9hQkFBdlRsY29QeDJNTEJBV2JEUzZSTFN0b1JTLUplVmVtenVidlBTSmRNZEhDNHF5bW1Oa3RUVVk2bWp3Z2FjNUtVSW55a1hoSGIweldVTXJ2ZF9XeHE2NldR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxPaVZuRkZidzcwREVQYjR5R1o3ZnVyVHk0dFEwWjlacWFsaktIaHZiU3JMS0g1TXZCbVVaMHdFRS1YZGgwVVBfWXR4Xzk0QkdmZXAyUFl3Um9hQkFBdlRsY29QeDJNTEJBV2JEUzZSTFN0b1JTLUplVmVtenVidlBTSmRNZEhDNHF5bW1Oa3RUVVk2bWp3Z2FjNUtVSW55a1hoSGIweldVTXJ2ZF9XeHE2NldR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>气候谈判进入最后阶段，COP29 各方在融资协议上产生分歧 - 彭博</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkgzZjNZX2hESVNROWlTT2FWY3RrZUM2SFd0c2ZFNE1zcTItUERIaTRZN0VFd2FzeDVONzI2VWtmLVNaZzVmS0pDUFZPS2VyQktYUXJlamdwbk83Z1kxZ0JyS1NOWlktTXpieEZOV2I0OF9OQURlYy1ILWliemQ5aE1IOUhQcHpnWVBSWl85cEdBYUlDYlpHTzUwNHB2eTBfWXMzMldVSzk2cnpMZEdJTA?oc=5</link>
-      <description><![CDATA[气候谈判达成协议，COP29 在融资协议上出现分歧终局  彭博社（使用 FetchRSS 生成的 Feed）]]></description>
-      <guid>https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkgzZjNZX2hESVNROWlTT2FWY3RrZUM2SFd0c2ZFNE1zcTItUERIaTRZN0VFd2FzeDVONzI2VWtmLVNaZzVmS0pDUFZPS2VyQktYUXJlamdwbk83Z1kxZ0JyS1NOWlktTXpieEZOV2I0OF9OQURlYy1ILWliemQ5aE1IOUhQcHpnWVBSWl85cEdBYUlDYlpHTzUwNHB2eTBfWXMzMldVSzk2cnpMZEdJTA?oc=5</guid>
-      <pubDate>Thu, 21 Nov 2024 09:27:38 GMT</pubDate>
+      <title>Palm 作为全球“万能石油”的霸主地位正受到挑战</title>
+      <link>https://news.google.com/read/CBMitwFBVV95cUxPNXJQLUl0V3NhdUJVYWtlZWNQc2RFeVFNSGJNazR0ZGpMcXhXWndYNUNKbmlreFQ2MHVXZkN6QloySkZOUXB6ZHZ0d1dUdUVfY1ZFTnFVWFdWNUVaczYxYmprbkRFYVo0RlVFeGo3WE9xTmN5a2dWYUtwRzRISlUtRkp3bFBHeGNiLU9tUVdsLUpfaXFYRF9sVE5qbjJSbWZEeG1udTh0S3I4dV9uSjF3UlgzU2ZIU0k?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitwFBVV95cUxPNXJQLUl0V3NhdUJVYWtlZWNQc2RFeVFNSGJNazR0ZGpMcXhXWndYNUNKbmlreFQ2MHVXZkN6QloySkZOUXB6ZHZ0d1dUdUVfY1ZFTnFVWFdWNUVaczYxYmprbkRFYVo0RlVFeGo3WE9xTmN5a2dWYUtwRzRISlUtRkp3bFBHeGNiLU9tUVdsLUpfaXFYRF9sVE5qbjJSbWZEeG1udTh0S3I4dV9uSjF3UlgzU2ZIU0k?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度反对派呼吁美国起诉后逮捕阿达尼</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxNTll1VUh0c3l2ek40cWpUYmZGZGlpMkIyeGUtaU9SRlkxT0ZZcXk5LXlHajA5LU9RTzBEYzBVZkhnLWRUMmhWeGhwOU1JM2tjR091WFR2aWZDVURsYlIxSGtFSUltd3VTUy1CdzZRVHc3NVdRVjQ4MnJXT1h4VElkbU8wc1V4TzR3bzZMVEhBa3Q0d09fUWFEaS1RaVIyY1lCZk1ZVS1sQk5SZ2ZEYUFXS2w2YWQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitAFBVV95cUxNTll1VUh0c3l2ek40cWpUYmZGZGlpMkIyeGUtaU9SRlkxT0ZZcXk5LXlHajA5LU9RTzBEYzBVZkhnLWRUMmhWeGhwOU1JM2tjR091WFR2aWZDVURsYlIxSGtFSUltd3VTUy1CdzZRVHc3NVdRVjQ4MnJXT1h4VElkbU8wc1V4TzR3bzZMVEhBa3Q0d09fUWFEaS1RaVIyY1lCZk1ZVS1sQk5SZ2ZEYUFXS2w2YWQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>目标股价暴跌，沃尔玛股价将迎来史诗般的一年</title>
+      <link>https://news.google.com/read/CBMiswFBVV95cUxPZUdLVkJSZllRRTJFcExNU2VCcldicENQZXFqZ3lLQTRHejBhNjhiWGQ3ajUwM1NpaTVJWk8tMUtyWUNGbmpJSEJLcFo2d2xkU3dBR0UzMVBMajU3S0xtLVVOWVcwenhvdFAtdW0zRmtuZG91STU1VEhJZ2dhRTU5T0JTZm10N0NvdEFIaVRnMVh6UC1DOHBmLTVaSlIxZy0xMnlJeFZRc0xfNDJpcnJSeTVpRQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiswFBVV95cUxPZUdLVkJSZllRRTJFcExNU2VCcldicENQZXFqZ3lLQTRHejBhNjhiWGQ3ajUwM1NpaTVJWk8tMUtyWUNGbmpJSEJLcFo2d2xkU3dBR0UzMVBMajU3S0xtLVVOWVcwenhvdFAtdW0zRmtuZG91STU1VEhJZ2dhRTU5T0JTZm10N0NvdEFIaVRnMVh6UC1DOHBmLTVaSlIxZy0xMnlJeFZRc0xfNDJpcnJSeTVpRQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>量化共同基金对阿达尼的巨额押注因贿赂指控而失败</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxPY2RZdFFHZkIwT3JYeXFSY1lzOXM2V3lFRW8yUWVJMTNtVVd0UjVBNkhPOVlVb0hpUjh1YnlmNmN5Zk9FdlJVVHRFRFBFOTRSVThicFlSVGVfYkRScU5Rbmpqay1DOURKaUNjbV9VVmljb0xoSkVaREFlNGwtZ1FiXzBYR0Y0R1BTUGtzTkVfaTBCRDdOajlpRmhPa2N1T2NHWm9DSDhwb0xsaGh1NXgxdTh0c0M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitAFBVV95cUxPY2RZdFFHZkIwT3JYeXFSY1lzOXM2V3lFRW8yUWVJMTNtVVd0UjVBNkhPOVlVb0hpUjh1YnlmNmN5Zk9FdlJVVHRFRFBFOTRSVThicFlSVGVfYkRScU5Rbmpqay1DOURKaUNjbV9VVmljb0xoSkVaREFlNGwtZ1FiXzBYR0Y0R1BTUGtzTkVfaTBCRDdOajlpRmhPa2N1T2NHWm9DSDhwb0xsaGh1NXgxdTh0c0M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>气候谈判进入最后阶段，COP29 各方对融资协议意见不一</title>
+      <link>https://news.google.com/read/CBMisAFBVV95cUxPMkgzZjNZX2hESVNROWlTT2FWY3RrZUM2SFd0c2ZFNE1zcTItUERIaTRZN0VFd2FzeDVONzI2VWtmLVNaZzVmS0pDUFZPS2VyQktYUXJlamdwbk83Z1kxZ0JyS1NOWlktTXpieEZOV2I0OF9OQURlYy1ILWliemQ5aE1IOUhQcHpnWVBSWl85cEdBYUlDYlpHTzUwNHB2eTBfWXMzMldVSzk2cnpMZEdJTA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisAFBVV95cUxPMkgzZjNZX2hESVNROWlTT2FWY3RrZUM2SFd0c2ZFNE1zcTItUERIaTRZN0VFd2FzeDVONzI2VWtmLVNaZzVmS0pDUFZPS2VyQktYUXJlamdwbk83Z1kxZ0JyS1NOWlktTXpieEZOV2I0OF9OQURlYy1ILWliemQ5aE1IOUhQcHpnWVBSWl85cEdBYUlDYlpHTzUwNHB2eTBfWXMzMldVSzk2cnpMZEdJTA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 14:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>霍尔茨曼称欧洲央行必须维持对价格风险的限制性政策</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxOS3pHRnBFZFhmbUdXSWloR1VtSHpjMTBVNWJLOW9yMkY3R1l4c240S3diaXJQcGNmRS1fZTVhZjlTSS1OQlR3S0Jabmo4Y1FvcGZkci14RTctdFhkR1lkWGR3MmJibl9GSWJLcU43VnJyMmlQOWZ0bGJrWFlPX0pPS1lwR0hfckFaSXM3dy1XZ3VvWllfaXlmV1p6NDFaZk9UelVPRV85MFJ4TmRaenc1NjFn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxOS3pHRnBFZFhmbUdXSWloR1VtSHpjMTBVNWJLOW9yMkY3R1l4c240S3diaXJQcGNmRS1fZTVhZjlTSS1OQlR3S0Jabmo4Y1FvcGZkci14RTctdFhkR1lkWGR3MmJibl9GSWJLcU43VnJyMmlQOWZ0bGJrWFlPX0pPS1lwR0hfckFaSXM3dy1XZ3VvWllfaXlmV1p6NDFaZk9UelVPRV85MFJ4TmRaenc1NjFn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 13:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国抵押贷款利率或将长期维持高位</title>
+      <link>https://news.google.com/read/CBMirwFBVV95cUxNNU02WURZOW1GMGdUUWxfa3ZVUEpyNUM2LWV4dlBmOGQ1akhEemFnUk1ibTdLUDQzcWlsdHNsZG5LZnB3WEpsZDdUeEYxMGRISEQyQVlPU2RXYkl0amlnWTlUSW5EaWVjMHlnTVgyWFRiOF9oZXNjOWVoQ0dPS29QT0JJZ3VvUFk0QW9BSk9uY2lCQWlFZ2xpQ1VsLWlscl91dm5XRWk3dWI3NUJCT1ZV?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirwFBVV95cUxNNU02WURZOW1GMGdUUWxfa3ZVUEpyNUM2LWV4dlBmOGQ1akhEemFnUk1ibTdLUDQzcWlsdHNsZG5LZnB3WEpsZDdUeEYxMGRISEQyQVlPU2RXYkl0amlnWTlUSW5EaWVjMHlnTVgyWFRiOF9oZXNjOWVoQ0dPS29QT0JJZ3VvUFk0QW9BSk9uY2lCQWlFZ2xpQ1VsLWlscl91dm5XRWk3dWI3NUJCT1ZV?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 13:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国央行在“疲软”经济中对商业地产保持警惕</title>
+      <link>https://news.google.com/read/CBMirgFBVV95cUxQcHZLbEZ6bElWZE54ODA3dEZHcWtPZjVxMWN2eXBoYXI0V1BhWllZckZYR01YUndGem9nVmVZaHdtOFdUdDY5VEJWZHlaRlk5dlJKSUFpVmlUYkRVUExGWlBRNFh2aDBVX3RmRHZ6VmdEaGhnMm1IQ2ZSQUJpc1dVZlJTWlhDMDRjTVJmTXprYkhIS0ZvN1UyN3F0dnRXdk5iOFpMZGR6SEIwVERVX3c?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirgFBVV95cUxQcHZLbEZ6bElWZE54ODA3dEZHcWtPZjVxMWN2eXBoYXI0V1BhWllZckZYR01YUndGem9nVmVZaHdtOFdUdDY5VEJWZHlaRlk5dlJKSUFpVmlUYkRVUExGWlBRNFh2aDBVX3RmRHZ6VmdEaGhnMm1IQ2ZSQUJpc1dVZlJTWlhDMDRjTVJmTXprYkhIS0ZvN1UyN3F0dnRXdk5iOFpMZGR6SEIwVERVX3c?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 13:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>特鲁多将公布减税措施以应对左翼反对派</title>
+      <link>https://news.google.com/read/CBMiswFBVV95cUxNNGhXUms0VV96elRwclAyMzRTNDc1eWt1NlZuWnRGQnUzSWlnS2tTWGoxT3RwX2dmbkx3V2FiTjkydC1xNG5zZ3hUTEx6S2hBVUstWV9zd2l2NnFvUjhzZWZFSXBzM3dpM0w5UDQ1WlVrbVBFb3BCN0FOMXBBOEVrYlBPOFROd09yb0k5cTZIbTZfM1JRNFg4SVBYaEVYZVVCQVlzLUdRdlI3bVBzc1Y4aXl6VQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiswFBVV95cUxNNGhXUms0VV96elRwclAyMzRTNDc1eWt1NlZuWnRGQnUzSWlnS2tTWGoxT3RwX2dmbkx3V2FiTjkydC1xNG5zZ3hUTEx6S2hBVUstWV9zd2l2NnFvUjhzZWZFSXBzM3dpM0w5UDQ1WlVrbVBFb3BCN0FOMXBBOEVrYlBPOFROd09yb0k5cTZIbTZfM1JRNFg4SVBYaEVYZVVCQVlzLUdRdlI3bVBzc1Y4aXl6VQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 13:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Citadel 证券将聘请印度区主管和交易员，以推动印度业务发展</title>
+      <link>https://news.google.com/read/CBMiwwFBVV95cUxNbFNhYjVhOWp5Z1NPcTJwT1FnMGV4b2VTZlRxaGRhNjJJeWNXRWMtWjltOVBlUjJlWk9nNTBpel9YQXFaNXl6R1V2YkZaZDZtOUhxeDB6YVNqc1h0WEoyMTdOUlliM0xIQmZ1YzQxY3JrSWxZcEtsRHFNSEZxTUlKLUZCNWNJeVl2by1jV0FWbEtiUXJPSElWR2hQZVlRMWxneGtnRFJzZkFRVEI5dFlkY2Z3VVdSdVN4OVpiUG5hZkxncVU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiwwFBVV95cUxNbFNhYjVhOWp5Z1NPcTJwT1FnMGV4b2VTZlRxaGRhNjJJeWNXRWMtWjltOVBlUjJlWk9nNTBpel9YQXFaNXl6R1V2YkZaZDZtOUhxeDB6YVNqc1h0WEoyMTdOUlliM0xIQmZ1YzQxY3JrSWxZcEtsRHFNSEZxTUlKLUZCNWNJeVl2by1jV0FWbEtiUXJPSElWR2hQZVlRMWxneGtnRFJzZkFRVEI5dFlkY2Z3VVdSdVN4OVpiUG5hZkxncVU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 12:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>观看 Gautam Adani 因涉嫌 2.5 亿美元贿赂阴谋遭美国指控 - 彭博社</title>
+      <link>https://news.google.com/read/CBMirwFBVV95cUxNRVNlYlQxUmlGTHdPNnRBYmhkUkx5TEpHbGxmNzkyb3Q2YUxaSkRzWWt4LTNJMUtDaHZlWkxfVEw4TDVOSnQzR3ZSNmJweE91LXVTN2RiYkxCUU9paUN2bGR3eDdrT1EwaFhEcmRDWUsxdzNUZUtyUXg4R2ZCMi04c1RuaU1nSkVYejhBWnNsc2tYQmNhcElQakdJbk00U0gxM2dKT1NMMmpaVFN2TlJ3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirwFBVV95cUxNRVNlYlQxUmlGTHdPNnRBYmhkUkx5TEpHbGxmNzkyb3Q2YUxaSkRzWWt4LTNJMUtDaHZlWkxfVEw4TDVOSnQzR3ZSNmJweE91LXVTN2RiYkxCUU9paUN2bGR3eDdrT1EwaFhEcmRDWUsxdzNUZUtyUXg4R2ZCMi04c1RuaU1nSkVYejhBWnNsc2tYQmNhcElQakdJbk00U0gxM2dKT1NMMmpaVFN2TlJ3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 12:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡森·布洛克预计特朗普上任后将发表更多反卖空言论</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxNQVlMTmVvUTJQYW9NSzJBcjF6UWpVT1p4R3dMZElXb3RScEdDUG11amRQUXBhalBPX2ZqNmQ2VjFjTHB5dlVHR2tuNnlsdkZMWUJiWWdCV1J2eEVmSlp2aUc5enNJbmp6blFLSTVlc3gxMkFvMXphZC0xbjRFc0RsMXgtc0xPclhpSzdHajVhVktfdzNoQlZ1MHRra1hLNkdjOW5iTnVPZjY3bHhJUEpPaTB5ME9UUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitgFBVV95cUxNQVlMTmVvUTJQYW9NSzJBcjF6UWpVT1p4R3dMZElXb3RScEdDUG11amRQUXBhalBPX2ZqNmQ2VjFjTHB5dlVHR2tuNnlsdkZMWUJiWWdCV1J2eEVmSlp2aUc5enNJbmp6blFLSTVlc3gxMkFvMXphZC0xbjRFc0RsMXgtc0xPclhpSzdHajVhVktfdzNoQlZ1MHRra1hLNkdjOW5iTnVPZjY3bHhJUEpPaTB5ME9UUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 11:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑石集团向 Lancium AI 建设投资 5 亿美元</title>
+      <link>https://news.google.com/read/CBMipwFBVV95cUxNdmMzeEJyN1o4VWZ6Uzg2NW13eFFjWmpwb1VIVnhiNS12OGNkODY2dFF4OGlURzVGeWJqcllSMlMxZ0dsNVVWdTNScXk3aUUyVnRVMS1WTm5MWEZ6MDdpaEtOSXVOM2RhNGJmWE92LTI3em9FQlQ4S1R1dFBtWHVPVk45dGhkWXBTbVNNZmhVbHdQRk1FVERDSFk0ejJZckZpcmdURmpPNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMipwFBVV95cUxNdmMzeEJyN1o4VWZ6Uzg2NW13eFFjWmpwb1VIVnhiNS12OGNkODY2dFF4OGlURzVGeWJqcllSMlMxZ0dsNVVWdTNScXk3aUUyVnRVMS1WTm5MWEZ6MDdpaEtOSXVOM2RhNGJmWE92LTI3em9FQlQ4S1R1dFBtWHVPVk45dGhkWXBTbVNNZmhVbHdQRk1FVERDSFk0ejJZckZpcmdURmpPNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 11:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰称俄罗斯使用洲际弹道导弹，战争进一步升级</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxPYnhCNHlZcnNKYlBBR0VjYU1sSkd0THFtUmUxNG5IWnlOaUdfT0k1RzJDNktEQ2IxdHhaakxNZ0NtQ2l2clhoeDBpcThhX254TU1WUkFXcGd2YmxDQmQ3NkNlZHBUb0tOYklld3I4a210TG9YcjJPQi1NR0V3RkNYMW9CRFhFQkZ5Q2NwYmFzX3l2Ynd4MGZaMlNoLXFDYjgzTVI5RFBzUUlPNTRQYVpRZUNjSWJodw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitgFBVV95cUxPYnhCNHlZcnNKYlBBR0VjYU1sSkd0THFtUmUxNG5IWnlOaUdfT0k1RzJDNktEQ2IxdHhaakxNZ0NtQ2l2clhoeDBpcThhX254TU1WUkFXcGd2YmxDQmQ3NkNlZHBUb0tOYklld3I4a210TG9YcjJPQi1NR0V3RkNYMW9CRFhFQkZ5Q2NwYmFzX3l2Ynd4MGZaMlNoLXFDYjgzTVI5RFBzUUlPNTRQYVpRZUNjSWJodw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 11:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国指控在数小时内抹去了 Gautam Adani 150 亿美元的财富</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxPbHdDUU1zNkxPbE8wVDNtZ21vQ3dGb0NPNHdFVGx6ZHdBVmNlRDd3VW5sMGZvaWNkN0FZWXFFNzFUTWhBTmJielJpQTg3SngxZ1ByOUpLdE9nT0tiRDZxejVuOUEtWUR1OXdrYmFEamhRa0U3R2dXYzV6dXFiM21nbjM4NFcySENFSjhKMV9xZWhBOGc4MWFWdkM3enNfVDYyQXdHOXQwclZRaEE0Mm1ZXy14eXM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitAFBVV95cUxPbHdDUU1zNkxPbE8wVDNtZ21vQ3dGb0NPNHdFVGx6ZHdBVmNlRDd3VW5sMGZvaWNkN0FZWXFFNzFUTWhBTmJielJpQTg3SngxZ1ByOUpLdE9nT0tiRDZxejVuOUEtWUR1OXdrYmFEamhRa0U3R2dXYzV6dXFiM21nbjM4NFcySENFSjhKMV9xZWhBOGc4MWFWdkM3enNfVDYyQXdHOXQwclZRaEE0Mm1ZXy14eXM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 11:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>人权组织称肯尼亚怂恿绑架外国异见人士</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxOdVpETUU0YXZmU0E5dkdMOElVMWpheVRxTk96bVh5WWZxREM3aGMtUEljU0ZOX0h2eHJpcDg1M3JNRmxhM0dwYXR2U0t5ZTBBNW02RjdOX1k0aERsTnNtUFVQUWtTZ2l0Nkt1V3RGZVByZjFibzhKNGpQcldUdGtkcUxfSVVISkx5dE1fN2JSTmhaZ1BuOWxYZzVwdExBbVpvTi11dmlzSWtjMGk2cTdDNHFYYlZpUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitgFBVV95cUxOdVpETUU0YXZmU0E5dkdMOElVMWpheVRxTk96bVh5WWZxREM3aGMtUEljU0ZOX0h2eHJpcDg1M3JNRmxhM0dwYXR2U0t5ZTBBNW02RjdOX1k0aERsTnNtUFVQUWtTZ2l0Nkt1V3RGZVByZjFibzhKNGpQcldUdGtkcUxfSVVISkx5dE1fN2JSTmhaZ1BuOWxYZzVwdExBbVpvTi11dmlzSWtjMGk2cTdDNHFYYlZpUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 10:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>习近平推出刺激计划前几个月，中国抗议活动激增 27%</title>
+      <link>https://news.google.com/read/CBMisAFBVV95cUxPYkdRNmFXc0QxNlNrWEdidWYyaHAtcm1fTV93VThmSXc4T3A3WlZlemh1N25CbnREM1gyODR1dmxoaFlqVURrR1Jrak5vMEtIamNxUU14LXdReG5KbnFZN24wNS0zN1Y3a1VVc2I1SzE5VzlaWUxjMXRlM2sxcXZzejYzVjZ2VXZ1WDVjcFhWb0h4V0xDZXVKQkhDMi1sVzdjc0g5NmQxQ0JIMUNINzFWQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisAFBVV95cUxPYkdRNmFXc0QxNlNrWEdidWYyaHAtcm1fTV93VThmSXc4T3A3WlZlemh1N25CbnREM1gyODR1dmxoaFlqVURrR1Jrak5vMEtIamNxUU14LXdReG5KbnFZN24wNS0zN1Y3a1VVc2I1SzE5VzlaWUxjMXRlM2sxcXZzejYzVjZ2VXZ1WDVjcFhWb0h4V0xDZXVKQkhDMi1sVzdjc0g5NmQxQ0JIMUNINzFWQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 10:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>目标是成为自我的主人</title>
+      <link>https://news.google.com/read/CBMiowFBVV95cUxPbmR5RmExQmNhRkhGYW9scko2ajNjaW0xbV9SSnotYXp2UHBkUl9EYlRBbWF3SG8tSnUxRUhJeVA5amdyR1EzSzhHd2V3MWR2RXlDV3VNN1A1bGE0R2ZEeGhDU3pLNGxnT3QwTTNNeVFFUWtoVjRGZmE0Ql9mTFB1VTk5Ykl6NVNDdEQxUjJScFBRejZhUklCQ0ZoVFU5OHlnMTM0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiowFBVV95cUxPbmR5RmExQmNhRkhGYW9scko2ajNjaW0xbV9SSnotYXp2UHBkUl9EYlRBbWF3SG8tSnUxRUhJeVA5amdyR1EzSzhHd2V3MWR2RXlDV3VNN1A1bGE0R2ZEeGhDU3pLNGxnT3QwTTNNeVFFUWtoVjRGZmE0Ql9mTFB1VTk5Ykl6NVNDdEQxUjJScFBRejZhUklCQ0ZoVFU5OHlnMTM0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 10:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 的黄仁勋传播人工智能福音，以寻求更多客户</title>
+      <link>https://news.google.com/read/CBMivgFBVV95cUxQOGh2Ml9mdHJldkhiaURwYmdDOHF5bWZUY2xoa2Y5dUxYa0NWSUdDWnh0UjZ2TFA3RzlJWFBOaUVHaFZHWE9YQkc1LTRHR1Q4WUxyTGoydm84QnN6NTd5Rjd4aTBIQk16MmZzcTh0U1dEbTJVMkwxampQdjZhWmduR25Wa1Zsdnh6ek84YTJWS05zSUl5Z3dNSGJ4c00ybHJPSnFhQThDdjVVa3BmZ2U0X1A5cGVpLTZvUUg0a19B?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMivgFBVV95cUxQOGh2Ml9mdHJldkhiaURwYmdDOHF5bWZUY2xoa2Y5dUxYa0NWSUdDWnh0UjZ2TFA3RzlJWFBOaUVHaFZHWE9YQkc1LTRHR1Q4WUxyTGoydm84QnN6NTd5Rjd4aTBIQk16MmZzcTh0U1dEbTJVMkwxampQdjZhWmduR25Wa1Zsdnh6ek84YTJWS05zSUl5Z3dNSGJ4c00ybHJPSnFhQThDdjVVa3BmZ2U0X1A5cGVpLTZvUUg0a19B?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 10:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>彭博商业周刊：嘉信理财影响力第一天第二部分</title>
+      <link>https://news.google.com/read/CBMiqAFBVV95cUxONU5mN2l6WS0ya1VHb0lKZmM3MnRuUmNSTVdicHpDbHR5WVRONndxNjNKRWktRVRnZXI4QlVnZVdycHVFeTZlS0I1cm9NYl9xaXVQdTRHUUtuZFI5UVJuZVR4YzljNmZwaExJR2JjQ2VuZk1DRUFsMS02SHZNVUdRTHp0cUY1WnU5a1djY3IyR1JMZVdSSFB2OWlMVkRhYl84aFJxVF8xTHo?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiqAFBVV95cUxONU5mN2l6WS0ya1VHb0lKZmM3MnRuUmNSTVdicHpDbHR5WVRONndxNjNKRWktRVRnZXI4QlVnZVdycHVFeTZlS0I1cm9NYl9xaXVQdTRHUUtuZFI5UVJuZVR4YzljNmZwaExJR2JjQ2VuZk1DRUFsMS02SHZNVUdRTHp0cUY1WnU5a1djY3IyR1JMZVdSSFB2OWlMVkRhYl84aFJxVF8xTHo?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 09:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国首次申请失业救济人数降至 4 月以来最低水平</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxNRVZMYk5CcGZRTFJXd1gzN1NCZnZmTC1rbDN1MkZvQVU5V1A5V2h5SkxXeHBOXzRzSno0Z3R3N1AwUG52LTc0RHFyUXVFdURheWhXV1lFcGNzWW8tTmFla3ptaUUzTG1ESmdHOFBWSDZRZ3pyU3A4LWdzNXBDU3pJOUhjVzhnX3FCOUV5ODZXdTgtR0w1Um84R3NUajJ0LUpwX0pXS29ORDZ1TFhNOTZLNjNR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxNRVZMYk5CcGZRTFJXd1gzN1NCZnZmTC1rbDN1MkZvQVU5V1A5V2h5SkxXeHBOXzRzSno0Z3R3N1AwUG52LTc0RHFyUXVFdURheWhXV1lFcGNzWW8tTmFla3ptaUUzTG1ESmdHOFBWSDZRZ3pyU3A4LWdzNXBDU3pJOUhjVzhnX3FCOUV5ODZXdTgtR0w1Um84R3NUajJ0LUpwX0pXS29ORDZ1TFhNOTZLNjNR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 09:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国原油库存连续第三周增加，油价持稳</title>
+      <link>https://news.google.com/read/CBMipAFBVV95cUxQdVVWVVVuSy1VQkFGX19YbGVQRDM2emV1bm4xck5yQW1fYzNSb0FKX24yeXU4RE1zT0dueXBGaGhrZHJMcFhBaURITjhQN1d5RzRNM1ptamo0X3FYNEplR1pvY3pQOG5nNnV1M28tbGZNVXFqSDIyaG5PVGhBRzR1R2t2OU9JdGlRYndfWEVjeDJtZzJRbm4wTXVjanFsU2o1ZTBiLQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMipAFBVV95cUxQdVVWVVVuSy1VQkFGX19YbGVQRDM2emV1bm4xck5yQW1fYzNSb0FKX24yeXU4RE1zT0dueXBGaGhrZHJMcFhBaURITjhQN1d5RzRNM1ptamo0X3FYNEplR1pvY3pQOG5nNnV1M28tbGZNVXFqSDIyaG5PVGhBRzR1R2t2OU9JdGlRYndfWEVjeDJtZzJRbm4wTXVjanFsU2o1ZTBiLQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 09:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDMA 称希腊明年将发行 80 亿欧元新债券</title>
+      <link>https://news.google.com/read/CBMirAFBVV95cUxOTTFGbXJ3WS1pOTYteXlJNllXenRaQ1k1RkdsbmZ6VzlEWDAzZTYwS1JJVjk0RWxyVXJTamxHNjFtUnZIam14TzFHcVFPUzJqMG1MY1QtbkNiOVY3cmRXVE9lTUVxV0JaMXlPMWU4UXpPenJUcldVS0oyZ3FZdzd4TER6bTROTFoxNndTQW9QdkQxNmhYeVdQSHFkQVlLdXRjZmxhNXlLcXp4dlR3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirAFBVV95cUxOTTFGbXJ3WS1pOTYteXlJNllXenRaQ1k1RkdsbmZ6VzlEWDAzZTYwS1JJVjk0RWxyVXJTamxHNjFtUnZIam14TzFHcVFPUzJqMG1MY1QtbkNiOVY3cmRXVE9lTUVxV0JaMXlPMWU4UXpPenJUcldVS0oyZ3FZdzd4TER6bTROTFoxNndTQW9QdkQxNmhYeVdQSHFkQVlLdXRjZmxhNXlLcXp4dlR3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 08:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿达尼放弃 6 亿美元债券，其他债券因美国指控而下跌</title>
+      <link>https://news.google.com/read/CBMirgFBVV95cUxQc09WREN0NXVJLWhYWnk4VngxU2UwMDlQSzVKM2t3Z1hNSnVOc2ZKaHloVXQwaE1KekdUUklaX2lrejRVeFRkMThhMy03OUxjRTN0VG9oTGdYRUlXLWtJX3RXTll0YzBIcW0wdHdJV2RVRndBaVJfdjhldWk4cVJEbUdGdlpaeU9zQS1oUlN0RW5xeDlCdzBQTmFnaVl4SEJWV1NWYUNIeTBIazkzWFE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirgFBVV95cUxQc09WREN0NXVJLWhYWnk4VngxU2UwMDlQSzVKM2t3Z1hNSnVOc2ZKaHloVXQwaE1KekdUUklaX2lrejRVeFRkMThhMy03OUxjRTN0VG9oTGdYRUlXLWtJX3RXTll0YzBIcW0wdHdJV2RVRndBaVJfdjhldWk4cVJEbUdGdlpaeU9zQS1oUlN0RW5xeDlCdzBQTmFnaVl4SEJWV1NWYUNIeTBIazkzWFE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 08:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>马蒂·马卡里被视为特朗普 FDA 提名的领先候选人</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxPUmpMbXRKelVHSDhGbXVaMEtXNVR3RzNkMEYxMTlJR2ZWWHF5MkZfWGZoRVBKZDI0dFFSZ2JrN2loNEN2T3FBRERXcEpHVXBIejZzRGZxZTZuSVFhZDM0OE8ySWdmb2c5YW1hbFVCZkFBMmlzRzh3bnJ3UjNfOENOUFRJLUx3a2lIeUNTdGhHQUU2S1ZNMVZoazVsYnlUa3hYS3NjRTFrNFQ2WE8wN01GS0hid3g?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitAFBVV95cUxPUmpMbXRKelVHSDhGbXVaMEtXNVR3RzNkMEYxMTlJR2ZWWHF5MkZfWGZoRVBKZDI0dFFSZ2JrN2loNEN2T3FBRERXcEpHVXBIejZzRGZxZTZuSVFhZDM0OE8ySWdmb2c5YW1hbFVCZkFBMmlzRzh3bnJ3UjNfOENOUFRJLUx3a2lIeUNTdGhHQUU2S1ZNMVZoazVsYnlUa3hYS3NjRTFrNFQ2WE8wN01GS0hid3g?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 08:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普支持加密货币，比特币价格逼近 10 万美元</title>
+      <link>https://news.google.com/read/CBMiugFBVV95cUxOZVdNbzA0U3hFTWpyUVZDN3FuMnAyaHhCczN0b2puRVRySkY3djBWWk5BRUdpTVpHSWVzVUhqZkV5SThYQXQ2Z0xkZ0RWSllXQmVtRjRhUmdsTnQyRE50Q2p0X3luTFdjN1pqbk50MmtjcU9LREtzYkVHb3dQNm1GbU02a3NfN2xxRGNyS2d1STF0WHBBenFiQ0ZrN2FhOEZ6SUFkT0ZLby1vclhjSUNwdlF3Q042bWJKNWc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiugFBVV95cUxOZVdNbzA0U3hFTWpyUVZDN3FuMnAyaHhCczN0b2puRVRySkY3djBWWk5BRUdpTVpHSWVzVUhqZkV5SThYQXQ2Z0xkZ0RWSllXQmVtRjRhUmdsTnQyRE50Q2p0X3luTFdjN1pqbk50MmtjcU9LREtzYkVHb3dQNm1GbU02a3NfN2xxRGNyS2d1STF0WHBBenFiQ0ZrN2FhOEZ6SUFkT0ZLby1vclhjSUNwdlF3Q042bWJKNWc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 07:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴菲特的 3250 亿美元现金储备是一个早期预警信号</title>
+      <link>https://news.google.com/read/CBMiswFBVV95cUxNTjZ5YTV4anZ1Wjh3QUhwYzF4cmFsWEhwRk5IQlRhZTN0M2hsS2ZZcDdvVGFpdndlbHdvZVFQb3k2WHJnMk5XNEVrZ3dneUdhb1JqdUJvT0tPd0EwenBVcUduSlBFUlJiTmFfdUtOeEl6czRod2htOW9CYjMwUy1hWE9HbDZlLVdpQWVzTG80cnIzYW9pczNkNjlWdjN5N285VloxQk93dkRkcGZZMUNKUHVnUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiswFBVV95cUxNTjZ5YTV4anZ1Wjh3QUhwYzF4cmFsWEhwRk5IQlRhZTN0M2hsS2ZZcDdvVGFpdndlbHdvZVFQb3k2WHJnMk5XNEVrZ3dneUdhb1JqdUJvT0tPd0EwenBVcUduSlBFUlJiTmFfdUtOeEl6czRod2htOW9CYjMwUy1hWE9HbDZlLVdpQWVzTG80cnIzYW9pczNkNjlWdjN5N285VloxQk93dkRkcGZZMUNKUHVnUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 07:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>国税局展示了政府效率的真实面貌</title>
+      <link>https://news.google.com/read/CBMirwFBVV95cUxPeW1ndzgtMEJDb05yNGpOVkZPN1FNSkRRdFp2TlRrNmNOc0FoWjVOTjhmTEcySjA1WjlyR2p2YXNSRGc4SHhDWHQ0YXA4dm5BSHhhOXJtRmt2SGJDLXVwOW9zNl9fUHBDX052V2MzaXU0WmZvM09XMk9MVmFDelNYaDVEZ1I1aE4wSHRNX0hyWVBZSm9ULUJod1VkZHFMbV9mLWRMbzlPcjhhdm81OHJn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirwFBVV95cUxPeW1ndzgtMEJDb05yNGpOVkZPN1FNSkRRdFp2TlRrNmNOc0FoWjVOTjhmTEcySjA1WjlyR2p2YXNSRGc4SHhDWHQ0YXA4dm5BSHhhOXJtRmt2SGJDLXVwOW9zNl9fUHBDX052V2MzaXU0WmZvM09XMk9MVmFDelNYaDVEZ1I1aE4wSHRNX0hyWVBZSm9ULUJod1VkZHFMbV9mLWRMbzlPcjhhdm81OHJn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 07:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clear 在机场的主导地位可能即将终结</title>
+      <link>https://news.google.com/read/CBMirwFBVV95cUxOY2w3VlhRU2Ntb2xIZnpKbE8tb0JoRFRsNkJtTVczVTNYYks1NWMyZF81WFg5ZUszLVBXSDhQNDVlaFdvM3I0RWQ4MEFLbjVZQW1SY0huZk15TFduaE5CWTg0VS1YNW5pa3ZUQnd2NmlNaXh0TG9DR3FWWGJHanp6YmlCV0hBZXVBMkVvaWJ3Rm1MZ0Z1TThGVm02ekRrZm1lWksxaHZQWkROQzFva21Z?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirwFBVV95cUxOY2w3VlhRU2Ntb2xIZnpKbE8tb0JoRFRsNkJtTVczVTNYYks1NWMyZF81WFg5ZUszLVBXSDhQNDVlaFdvM3I0RWQ4MEFLbjVZQW1SY0huZk15TFduaE5CWTg0VS1YNW5pa3ZUQnd2NmlNaXh0TG9DR3FWWGJHanp6YmlCV0hBZXVBMkVvaWJ3Rm1MZ0Z1TThGVm02ekRrZm1lWksxaHZQWkROQzFva21Z?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 06:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着分析师逐渐了解现实，英伟达的预测魔力逐渐消退</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxNZy0tREU1LXJ6bmhVOThzNTEwUXBWME00bndOVDNMVEVDSXYtUGVZZDVLNUVQOWRzOFZueG5zSEJmVkh0OEdKQm4tWjlWanZDdWtfVjl2UWc4bTAyNDd1NlpKMk1LVUN1VC1RRTR4M0t6amFXVUlrWGlWalVPUVNmNHp3bkVUMFJhSkpmX2FfR1JEalF4dHJfT1M0Tlp5am52ME1PMU1JamphakdWaTN2Zm9R?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxNZy0tREU1LXJ6bmhVOThzNTEwUXBWME00bndOVDNMVEVDSXYtUGVZZDVLNUVQOWRzOFZueG5zSEJmVkh0OEdKQm4tWjlWanZDdWtfVjl2UWc4bTAyNDd1NlpKMk1LVUN1VC1RRTR4M0t6amFXVUlrWGlWalVPUVNmNHp3bkVUMFJhSkpmX2FfR1JEalF4dHJfT1M0Tlp5am52ME1PMU1JamphakdWaTN2Zm9R?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 06:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>迈克泰森和杰克保罗的比赛本应是非法的</title>
+      <link>https://news.google.com/read/CBMitwFBVV95cUxOOGx1dV9ieENPX3dQaEF1RUtaU0k1R0hkUHhIMTdnSjJEU2VRenhic2NpNWlWMWJOWUwxdkdlbUJ0UjZoLS11XzlZUkhqTWx6UnFvSVZUTkY0NE1hUndPTXF0bG1ndW1WWFlhd3h5YS1xQTdHdEdkTGNkaERrRG83QmtfRWl6OVZkUGVGRGlWaFlvUlA0aDNTbm9Nd0NTX2VaN3NCWldra3ZvU0hmVXJRcVcza0F6WDA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitwFBVV95cUxOOGx1dV9ieENPX3dQaEF1RUtaU0k1R0hkUHhIMTdnSjJEU2VRenhic2NpNWlWMWJOWUwxdkdlbUJ0UjZoLS11XzlZUkhqTWx6UnFvSVZUTkY0NE1hUndPTXF0bG1ndW1WWFlhd3h5YS1xQTdHdEdkTGNkaERrRG83QmtfRWl6OVZkUGVGRGlWaFlvUlA0aDNTbm9Nd0NTX2VaN3NCWldra3ZvU0hmVXJRcVcza0F6WDA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 06:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>匈牙利在乌克兰边境部署防空系统</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxPaFhyMkVBQjg1OUZkaE82VW9wRWpYeEo0SENhRk9vTVdtVmRMajM1bjdlOWZkVm9pMDZLbWtCVlM3bDBZR3FFNW1XMWIySjl0X1NrU1AzQ2Y0b21pakYzWTZTZDRCc0FndE14b1Q1Y1RRQmJJM1hVbElKMDlkQ2cteHlMTFFnRzhQQk5fczhHNlYwc0wyQWZzblVVSEtHWTlHMWlnTUlGZndHV1R3WnB0RkJheEQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitAFBVV95cUxPaFhyMkVBQjg1OUZkaE82VW9wRWpYeEo0SENhRk9vTVdtVmRMajM1bjdlOWZkVm9pMDZLbWtCVlM3bDBZR3FFNW1XMWIySjl0X1NrU1AzQ2Y0b21pakYzWTZTZDRCc0FndE14b1Q1Y1RRQmJJM1hVbElKMDlkQ2cteHlMTFFnRzhQQk5fczhHNlYwc0wyQWZzblVVSEtHWTlHMWlnTUlGZndHV1R3WnB0RkJheEQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 06:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞银任命欧洲、中东和非洲地区全球银行新任区域主管</title>
+      <link>https://news.google.com/read/CBMipAFBVV95cUxQXzBsR2xySHlqMXp5YnhncExPdF9CNGRwMDVIclYwV1l6S3dGbGZpTy1HY1g0RWx4Sk1ZR1JmUDhaWEtNSGl6LVB4c3MwQTBiOGNodHhFcy16WUl4ZHE2N05tQXdGdHM3Ymh0Tko3dUxvb3BmNmVHWHk4TE4xdy02cExMRi15TDZpQ0JwczByd0dTWEp0NXgtSzBwMHJBY3NZem5Yag?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMipAFBVV95cUxQXzBsR2xySHlqMXp5YnhncExPdF9CNGRwMDVIclYwV1l6S3dGbGZpTy1HY1g0RWx4Sk1ZR1JmUDhaWEtNSGl6LVB4c3MwQTBiOGNodHhFcy16WUl4ZHE2N05tQXdGdHM3Ymh0Tko3dUxvb3BmNmVHWHk4TE4xdy02cExMRi15TDZpQ0JwczByd0dTWEp0NXgtSzBwMHJBY3NZem5Yag?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 05:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>南非表现最佳的服装零售商销售额不断上升，创下新高</title>
+      <link>https://news.google.com/read/CBMiygFBVV95cUxQWmZmb0Q4WS1vOXpKOEd5RDRfTndXdGM0WVhROU1aQkVocXRxYTYtVDdaODViN1ZGd2hMeWppalZHRGc2RVpjbHJxMkxRNEFkSzFMeXY5MmZ5Ml9sS0N3UmZnX3VRSWpTNkRRdUdvU3BodVNOTFk4Z2dXcU8yNk44Qi1WeFEtd3A4LTdvWWRVQlRYTEJrZkFCSVpsRG9wcDVFVU5FSllxdkl4c3ZGYzNNbzl2VnlhOUd0M3NfcDZxeVN4M2RCTlltcUF3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiygFBVV95cUxQWmZmb0Q4WS1vOXpKOEd5RDRfTndXdGM0WVhROU1aQkVocXRxYTYtVDdaODViN1ZGd2hMeWppalZHRGc2RVpjbHJxMkxRNEFkSzFMeXY5MmZ5Ml9sS0N3UmZnX3VRSWpTNkRRdUdvU3BodVNOTFk4Z2dXcU8yNk44Qi1WeFEtd3A4LTdvWWRVQlRYTEJrZkFCSVpsRG9wcDVFVU5FSllxdkl4c3ZGYzNNbzl2VnlhOUd0M3NfcDZxeVN4M2RCTlltcUF3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 05:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>科恩称，特朗普最看重的是财政部长人选</title>
+      <link>https://news.google.com/read/CBMirgFBVV95cUxNcWF0YUFfbXR0bjN5empQb1QwWXBDdzBKcjVoSUw5S3N0bHRrTWtMWXAzd2I5dGFVSG5XLWtTOGUtam5RSU1vUG8xWU0tVXVRQVdzOGlQQmhNRTBYUkxsRXVVdUN5aWg1QnJMRDFPLTJFY2pZYUlCd3U2RVN6dDhIbUdsWG5OTDNwVXU4ZXA5Q1pjcGpYNWpSa0FDbFJXeDRyb21mTU1mWmwyRm01V1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMirgFBVV95cUxNcWF0YUFfbXR0bjN5empQb1QwWXBDdzBKcjVoSUw5S3N0bHRrTWtMWXAzd2I5dGFVSG5XLWtTOGUtam5RSU1vUG8xWU0tVXVRQVdzOGlQQmhNRTBYUkxsRXVVdUN5aWg1QnJMRDFPLTJFY2pZYUlCd3U2RVN6dDhIbUdsWG5OTDNwVXU4ZXA5Q1pjcGpYNWpSa0FDbFJXeDRyb21mTU1mWmwyRm01V1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 05:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦快递和 UPS 或将告别正常旺季</title>
+      <link>https://news.google.com/read/CBMiqwFBVV95cUxPbUR1RmY2NnBDSzYwaVZnR3BrV0t6QlFIUVdDc29fS1dDZ2VSb2g2eVVneHQ1cUdYZXpUa25MT0VPcG5BZzVUNGRUQWFJQWF6YldXd2lFY2tLSVkzeUg0YmhnbG1UUVg0NTdFcHRZeG0zUWVPMk52NFJOZDRKWmY2dllqeHVRajNlZzdZUFZORGllNTJFLVdPb1hVcDBjN2M3WWN0c1N2cEpIc0U?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiqwFBVV95cUxPbUR1RmY2NnBDSzYwaVZnR3BrV0t6QlFIUVdDc29fS1dDZ2VSb2g2eVVneHQ1cUdYZXpUa25MT0VPcG5BZzVUNGRUQWFJQWF6YldXd2lFY2tLSVkzeUg0YmhnbG1UUVg0NTdFcHRZeG0zUWVPMk52NFJOZDRKWmY2dllqeHVRajNlZzdZUFZORGllNTJFLVdPb1hVcDBjN2M3WWN0c1N2cEpIc0U?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 04:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>零排放：巴西的 COP30 愿景</title>
+      <link>https://news.google.com/read/CBMiqgFBVV95cUxPalFBQXpNVGFfenREcTJBRVhaaVk3SGVRZzhISXJBVGYxYVhSaHlrLVUwbFNCSjhacHJsNXVwWmFWdVJtb09mUVVUaEw3ZEV3d1dCc1lJM0lsdkJXdTM4ZWFoU0JHZng1cDAwU1Znc2Zvc25ITkZPeTI2RGhGdC1jVzFFZ0ZLek5Id1Jpa1BWLU8wTVc1XzVGWDR4OE1XZnNxU2JqZjRBS0szQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiqgFBVV95cUxPalFBQXpNVGFfenREcTJBRVhaaVk3SGVRZzhISXJBVGYxYVhSaHlrLVUwbFNCSjhacHJsNXVwWmFWdVJtb09mUVVUaEw3ZEV3d1dCc1lJM0lsdkJXdTM4ZWFoU0JHZng1cDAwU1Znc2Zvc25ITkZPeTI2RGhGdC1jVzFFZ0ZLek5Id1Jpa1BWLU8wTVc1XzVGWDR4OE1XZnNxU2JqZjRBS0szQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 04:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watch Block 称他对 Elf Beauty 的收入问题感到不满</title>
+      <link>https://news.google.com/read/CBMiqwFBVV95cUxONzhYeWpjLVI5VWhoMGtkR0xJOUpoaEU4am9PMXhVTTJlVkc5LWJWd2V1b0xraElUNHB6b1hldS0wWHd3STVoeWVlT29DNzNrUnlYcjN1cnVTdXg0Q2I0N3BJOEJ4UDZsdzdsRi11a0gwZWtyd05IX1pRQTI4Q0ZHR3d6c2VnM2NvdmVYTm5hX0o2ejN0Z3pvU0M1VDZZUGtjaG1iQ3p5WHZZLU0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMiqwFBVV95cUxONzhYeWpjLVI5VWhoMGtkR0xJOUpoaEU4am9PMXhVTTJlVkc5LWJWd2V1b0xraElUNHB6b1hldS0wWHd3STVoeWVlT29DNzNrUnlYcjN1cnVTdXg0Q2I0N3BJOEJ4UDZsdzdsRi11a0gwZWtyd05IX1pRQTI4Q0ZHR3d6c2VnM2NvdmVYTm5hX0o2ejN0Z3pvU0M1VDZZUGtjaG1iQ3p5WHZZLU0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 04:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么“高端化”让飞行变得更好——也变得更糟</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxNNDJFYkxZV1oyMFp6ZkJOTXNwLWJFdVI3eWMtNXdxYk04QnlYMG9tZGF3aVBNc3RNTWZWUlV1MVk1cHpXaTBsSVVlcDdGTWpGTUpXamV1X3FfSjMzSkM5RnhKOHZzay1FOHZUWjF0OTJHY0NGdFRJMUUzd1o0em1iT1dCRVhQdUdOR2RZaVJjVnFYNDRURzFpOGZWRWZtaURWZHJWbWhJQjN2WmxtRlRDdWpR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxNNDJFYkxZV1oyMFp6ZkJOTXNwLWJFdVI3eWMtNXdxYk04QnlYMG9tZGF3aVBNc3RNTWZWUlV1MVk1cHpXaTBsSVVlcDdGTWpGTUpXamV1X3FfSjMzSkM5RnhKOHZzay1FOHZUWjF0OTJHY0NGdFRJMUUzd1o0em1iT1dCRVhQdUdOR2RZaVJjVnFYNDRURzFpOGZWRWZtaURWZHJWbWhJQjN2WmxtRlRDdWpR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 04:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>科恩称特朗普有“足够时间”决定财政部长人选</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxOUUthVU1vS3NPazNkeklnd0Q5OXhkV3VWWGV6cHM3V0FBa2NkcDAyQ18weWlZdGo2bTN0YTZ3czdPR1FWUXZRMklTZF9GS0RzZFdRY1E1eWJCc010UE1oVXRRNFJxeW00WnRjU0dKR3hsVjZMUk5RdnBnU2ZLWE1QUmt1aHVuYmxnYnhUZ0YwX1BSRDFJM1o2MjlVelk2Y2ROMzR0cFRldEhzS1hwSl9rREdB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxOUUthVU1vS3NPazNkeklnd0Q5OXhkV3VWWGV6cHM3V0FBa2NkcDAyQ18weWlZdGo2bTN0YTZ3czdPR1FWUXZRMklTZF9GS0RzZFdRY1E1eWJCc010UE1oVXRRNFJxeW00WnRjU0dKR3hsVjZMUk5RdnBnU2ZLWE1QUmt1aHVuYmxnYnhUZ0YwX1BSRDFJM1o2MjlVelk2Y2ROMzR0cFRldEhzS1hwSl9rREdB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 03:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约州的劳勒表示，必须取消盐消费上限才能通过共和党税收法案</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxNWkNzeHdDSkZRaDB0bHExSVhEd2QzRTdTYm9sRGtfVXJQNTd2RjA4eF95ajdqcFRPTDhEdnhadmkwVDdEOW5CbnFobnV3N0I3UnZhZjZ5MG5pZ0h0bGtTd1pPRmhGZ0Qza0JVZnVYR3hQaWlTUTR0Xzg2b3ZBRkFpeGFkSlJHRC1URUFWVTBldFVqNl94a3ZEU0JYbzBqQ2xiZTNGQ0EtOE9WRXBZUWdFNWhn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxNWkNzeHdDSkZRaDB0bHExSVhEd2QzRTdTYm9sRGtfVXJQNTd2RjA4eF95ajdqcFRPTDhEdnhadmkwVDdEOW5CbnFobnV3N0I3UnZhZjZ5MG5pZ0h0bGtTd1pPRmhGZ0Qza0JVZnVYR3hQaWlTUTR0Xzg2b3ZBRkFpeGFkSlJHRC1URUFWVTBldFVqNl94a3ZEU0JYbzBqQ2xiZTNGQ0EtOE9WRXBZUWdFNWhn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 03:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京的核威胁是魔术，但很危险</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxOLUlub1puREtFLWpoM0xCQlFKQ1ByNHZ1NTJUYlpKX09MbThQWmRlMzlBYTB3T0VxTVJVVS1JbUFmVWtRLXBiMjN4TXZTS1FlcFVsU2lSWVlDUFZuM1EwU09OTVJYQ05wVS1JTzR0MG4zVTNlSDJvRkk3TGxMRS1oa2ExQ0RtOHJUNld2dW11WDV5cFMtR0ZVMTFGU292eWNKUWdtVy1KVUR5REhxSVE4NmZ6Q1BLZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitgFBVV95cUxOLUlub1puREtFLWpoM0xCQlFKQ1ByNHZ1NTJUYlpKX09MbThQWmRlMzlBYTB3T0VxTVJVVS1JbUFmVWtRLXBiMjN4TXZTS1FlcFVsU2lSWVlDUFZuM1EwU09OTVJYQ05wVS1JTzR0MG4zVTNlSDJvRkk3TGxMRS1oa2ExQ0RtOHJUNld2dW11WDV5cFMtR0ZVMTFGU292eWNKUWdtVy1KVUR5REhxSVE4NmZ6Q1BLZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 03:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>冰岛小渔村附近火山爆发</title>
+      <link>https://news.google.com/read/CBMinwFBVV95cUxPbVhiUF9Nb2VaZXVrTFppSDhPekJCdml1ZV9ISWRPTlI1aUk0Wk11UnRtNUZoX0tlQmJBWVZsY2R2Njk4OTNWdlBPWVBwb1lBRmpHeTVPRWI5Um8wM2JtNk44eTZKZmt0dWFfTGxubzAyVUIxOUxuYUYtM0h3ejZ3Sjc2Vkd3amtqQWItWWpGRmxZUVd3VDlpb0xZTnFxMm8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMinwFBVV95cUxPbVhiUF9Nb2VaZXVrTFppSDhPekJCdml1ZV9ISWRPTlI1aUk0Wk11UnRtNUZoX0tlQmJBWVZsY2R2Njk4OTNWdlBPWVBwb1lBRmpHeTVPRWI5Um8wM2JtNk44eTZKZmt0dWFfTGxubzAyVUIxOUxuYUYtM0h3ejZ3Sjc2Vkd3amtqQWItWWpGRmxZUVd3VDlpb0xZTnFxMm8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 02:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>南非财政部长甘亚戈称通胀目标审查即将结束</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxQVUUyeFB1TkFkUjRMTEdDblYyNmtkSHJtT2lJT1lBRXdYNmRlTmNSUzFZMmpBbDdWdEpyTGFybHZPOWkwVkRZVTlBSDRVMVRlMEloRjZoMklvdmltVnNCeTJqRjg1aFVvSURCRzZGNDhHdlJEdjhLMGI3RG55WUtHaUU3Zkt6M2Y0Q3lPdGxYQ3dBa1M2NGdZZUhQUXpYUkw2UVlBTmlPLTBWcjEwdVptTEd4SDBqdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitgFBVV95cUxQVUUyeFB1TkFkUjRMTEdDblYyNmtkSHJtT2lJT1lBRXdYNmRlTmNSUzFZMmpBbDdWdEpyTGFybHZPOWkwVkRZVTlBSDRVMVRlMEloRjZoMklvdmltVnNCeTJqRjg1aFVvSURCRzZGNDhHdlJEdjhLMGI3RG55WUtHaUU3Zkt6M2Y0Q3lPdGxYQ3dBa1M2NGdZZUhQUXpYUkw2UVlBTmlPLTBWcjEwdVptTEd4SDBqdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 02:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>土耳其维持利率不变，暗示将降息以减缓通胀</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxPOUZEekpHTENhSzlXaWQwZXdUdGhqamMtMmdSTWFQY0JJYXZPd3VLVHBsczRObWxjY1I1aGIzc1k1TWU3dVYtYWlFQ25veXE1LTdkVG40dGg5MU5NVWdUaER1bnZYWERFaXpWLUQ5YUN4bmhqMjkzakdsSVVVVHFyZ3hObTdqVlNGR3BSVW5XOHhLRDBWY0JQTnFxc1V5cGE4czNyRENuNFFQbXEtMVBqOHpn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMisgFBVV95cUxPOUZEekpHTENhSzlXaWQwZXdUdGhqamMtMmdSTWFQY0JJYXZPd3VLVHBsczRObWxjY1I1aGIzc1k1TWU3dVYtYWlFQ25veXE1LTdkVG40dGg5MU5NVWdUaER1bnZYWERFaXpWLUQ5YUN4bmhqMjkzakdsSVVVVHFyZ3hObTdqVlNGR3BSVW5XOHhLRDBWY0JQTnFxc1V5cGE4czNyRENuNFFQbXEtMVBqOHpn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 02:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>泰森食品在印第安纳州非法移民调查中受到质疑</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxOcVFzM1F0VVNvREY5RDlWQl9tak9mNk5pQVNYazJQcW1RWmFvVVp0a0k0SFJCX0xyUXUyejYzTFJKTHBaX0FuT2NXOUpEd3FvSXpXMmFoOUN6c0c1ZDZsTkItcU8tV0lsYW5HMTFUZUZaSnpfZUJlV3k2QXpXYlFLWlZrOUxIdmlINlBmLW43WVdWdjNxT1E2cDhQWUszX0Y3RVIyN01zMEVsTjlnOXlJQ3A2TTRuZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://news.google.com/read/CBMitgFBVV95cUxOcVFzM1F0VVNvREY5RDlWQl9tak9mNk5pQVNYazJQcW1RWmFvVVp0a0k0SFJCX0xyUXUyejYzTFJKTHBaX0FuT2NXOUpEd3FvSXpXMmFoOUN6c0c1ZDZsTkItcU8tV0lsYW5HMTFUZUZaSnpfZUJlV3k2QXpXYlFLWlZrOUxIdmlINlBmLW43WVdWdjNxT1E2cDhQWUszX0Y3RVIyN01zMEVsTjlnOXlJQ3A2TTRuZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 21 Nov 2024 00:22:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

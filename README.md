@@ -11,7 +11,7 @@
  📢查看[ 本页 ](https://ueui.github.io/rss-translate) 参考自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
- - source001 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f4406be3a1164f502a3d2.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f4406be3a1164f502a3d2.xml) -> [bloomberg_news](rss/bloomberg_news.xml)
+ - source001 [https://politepol.com/fd/reoQ2EA9MDxJ.xml](https://politepol.com/fd/reoQ2EA9MDxJ.xml) -> [bloomberg_news](rss/bloomberg_news.xml)
  - source002 [https://feeds.bloomberg.com/Crypto/news.rss](https://feeds.bloomberg.com/Crypto/news.rss) -> [Bloomberg_Crypto](rss/Bloomberg_Crypto.xml)
  - source003 [https://www.vice.com/en/rss?locale=en_us](https://www.vice.com/en/rss?locale=en_us) -> [English_VICE](rss/English_VICE.xml)
  - source004 [https://kill-the-newsletter.com/feeds/h541vjjth6mkic38ik3f.xml](https://kill-the-newsletter.com/feeds/h541vjjth6mkic38ik3f.xml) -> [Bloomberg](rss/Bloomberg.xml)
