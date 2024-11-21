@@ -36,5 +36,4 @@
  - source023 [https://politepol.com/fd/iZVG8rUDvbg9.xml](https://politepol.com/fd/iZVG8rUDvbg9.xml) -> [Morning_Briefing_Asia_Bloomberg](rss/Morning_Briefing_Asia_Bloomberg.xml)
  - source024 [https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/review/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/review/rss.xml) -> [Book_Review_The_New_York_Times](rss/Book_Review_The_New_York_Times.xml)
  - source025 [https://politepol.com/fd/cvqP0wDPuxlB.xml](https://politepol.com/fd/cvqP0wDPuxlB.xml) -> [U.S.Environmental_ProtectionAgency_Perspectives](rss/U.S.Environmental_ProtectionAgency_Perspectives.xml)
- - source026 [https://politepol.com/fd/jgecySKvZHxf.xml](https://politepol.com/fd/jgecySKvZHxf.xml) -> [Henley_Partners_Press_Releases](rss/Henley_Partners_Press_Releases.xml)
- - source027 [https://politepol.com/fd/3Hr2fcIRuSo5.xml](https://politepol.com/fd/3Hr2fcIRuSo5.xml) -> [Henley_Partners_Press_Media_Articles](rss/Henley_Partners_Press_Media_Articles.xml)
+ - source026 []() -> [](rss/.xml)
