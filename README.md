@@ -11,7 +11,7 @@
  📢查看[ 本页 ](https://ueui.github.io/rss-translate) 参考自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
- - source001 [https://politepol.com/fd/vzI67cw0fyIL.xml](https://politepol.com/fd/vzI67cw0fyIL.xml) -> [bloomberg_news](rss/bloomberg_news.xml)
+ - source001 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3e9c0adc387ded0a1eb2.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3e9c0adc387ded0a1eb2.xml) -> [bloomberg_news](rss/bloomberg_news.xml)
  - source002 [https://feeds.bloomberg.com/Crypto/news.rss](https://feeds.bloomberg.com/Crypto/news.rss) -> [Bloomberg_Crypto](rss/Bloomberg_Crypto.xml)
  - source003 [https://www.vice.com/en/rss?locale=en_us](https://www.vice.com/en/rss?locale=en_us) -> [English_VICE](rss/English_VICE.xml)
  - source004 [https://kill-the-newsletter.com/feeds/h541vjjth6mkic38ik3f.xml](https://kill-the-newsletter.com/feeds/h541vjjth6mkic38ik3f.xml) -> [Bloomberg](rss/Bloomberg.xml)
@@ -37,6 +37,6 @@
  - source024 [https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/review/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/review/rss.xml) -> [Book_Review_The_New_York_Times](rss/Book_Review_The_New_York_Times.xml)
  - source025 [https://politepol.com/fd/cvqP0wDPuxlB.xml](https://politepol.com/fd/cvqP0wDPuxlB.xml) -> [U.S.Environmental_ProtectionAgency_Perspectives](rss/U.S.Environmental_ProtectionAgency_Perspectives.xml)
  - source026 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml) -> [Henley_&_Partners_Press_Media_Articles](rss/Henley_%26_Partners_Press_Media_Articles.xml)
- - source027 [https://politepol.com/fd/jgecySKvZHxf.xml](https://politepol.com/fd/jgecySKvZHxf.xml) -> [Henley_&_Partners_Press_Releases](rss/Henley_%26_Partners_Press_Releases.xml)
+ - source027 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml) -> [Henley_&_Partners_Press_Releases](rss/Henley_%26_Partners_Press_Releases.xml)
  - source028 []() -> [](rss/.xml)
  - source029 []() -> [](rss/.xml)
