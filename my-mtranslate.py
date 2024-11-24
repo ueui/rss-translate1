@@ -197,13 +197,14 @@ def tran(sec, max_item):
     except Exception as e:
         print("Error occurred when creating directory %s: %s" % (BASE, str(e)))
         return
+
 import html
 
 def sanitize_rss_content(content):
     return html.escape(content)
 
-# 在生成 RSS 之前应用转义函数
-rss_content = sanitize_rss_content(item['description'])
+rss_content = "<description>Here is some content with & symbol.</description>"
+rss_content = sanitize_rss_content(rss_content)
 
     # 如果 RSS 文件存在，则删除原有内容
     if os.path.isfile(xml_file):
