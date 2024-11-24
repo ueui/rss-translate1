@@ -131,14 +131,6 @@ def tran(sec, max_item):
         print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
         return
 
-    import html
-
-def sanitize_rss_content(content):
-    return html.escape(content)
-
-rss_content = "<description>Here is some content with & symbol.</description>"
-rss_content = sanitize_rss_content(rss_content)
-
     # 处理 RSS 内容，生成新的 RSS 文件
     rss_items = []
     for item in feed["items"]:
