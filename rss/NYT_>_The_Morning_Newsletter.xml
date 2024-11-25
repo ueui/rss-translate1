@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sun, 24 Nov 2024 12:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 11:35:42 GMT</lastBuildDate>
+    <item>
+      <title>气候变化</title>
+      <link>https://www.nytimes.com/2024/11/25/briefing/donald-trump-climate-policies.html</link>
+      <description><![CDATA[我们探讨唐纳德·特朗普的气候议程。]]></description>
+      <guid>https://www.nytimes.com/2024/11/25/briefing/donald-trump-climate-policies.html</guid>
+      <pubDate>Mon, 25 Nov 2024 11:35:42 GMT</pubDate>
+    </item>
     <item>
       <title>感恩节新经典</title>
       <link>https://www.nytimes.com/2024/11/24/briefing/new-thanksgiving-classics.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[周末表面上是用来放松的。但想要让每一刻都富有成效的冲动可能会让无负罪感的休闲成为一种挑战。]]></description>
       <guid>https://www.nytimes.com/2024/11/16/briefing/satisfying-vs-productive.html</guid>
       <pubDate>Sat, 16 Nov 2024 11:38:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的税收计划</title>
-      <link>https://www.nytimes.com/2024/11/15/briefing/trump-tax-plans.html</link>
-      <description><![CDATA[共和党明年可能采取的减税措施有三种情况。]]></description>
-      <guid>https://www.nytimes.com/2024/11/15/briefing/trump-tax-plans.html</guid>
-      <pubDate>Fri, 15 Nov 2024 11:49:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
