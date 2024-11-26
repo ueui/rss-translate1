@@ -130,7 +130,11 @@ def tran(sec, max_item):
     except Exception as e:
         print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
         return
-
+    
+        # 转义link与guid内的&以符合XML格式
+        link = link.replace("&", "&amp;")
+        guid = guid.replace("&", "&amp;")
+        
     # 处理 RSS 内容，生成新的 RSS 文件
     rss_items = []
     for item in feed["items"]:
