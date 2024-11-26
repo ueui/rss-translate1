@@ -180,6 +180,11 @@ def tran(sec):
         description = item["description"]
         guid = item["guid"]
         pubDate = item["pubDate"]
+        
+        # 转义link与guid内的&以符合XML格式
+        link = link.replace("&", "&amp;")
+        guid = guid.replace("&", "&amp;")
+        
         # 处理翻译结果中的不正确的 XML 标记
         soup = BeautifulSoup(description, "html.parser")
         description = soup.get_text()
