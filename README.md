@@ -39,5 +39,6 @@
  - source026 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml) -> [Henley_&_Partners_Press_Media_Articles](rss/Henley_%26_Partners_Press_Media_Articles.xml)
  - source027 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml) -> [Henley_&_Partners_Press_Releases](rss/Henley_%26_Partners_Press_Releases.xml)
  - source028 [https://rsshub.app/telegram/channel/hackerNewsSummary007](https://rsshub.app/telegram/channel/hackerNewsSummary007) -> [Hacker_News](rss/Hacker_News.xml)
- - source029 []() -> [](rss/.xml)
+ - source029 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb526745b0ac5d220d2c9d06a912.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb526745b0ac5d220d2c9d06a912.xml) -> [people_celebrity_legal_lawsuits](rss/people_celebrity_legal_lawsuits.xml)
  - source030 []() -> [](rss/.xml)
+ - source031 []() -> [](rss/.xml)
