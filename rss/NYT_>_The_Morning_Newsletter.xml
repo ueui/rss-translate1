@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Nov 2024 11:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 11:43:01 GMT</lastBuildDate>
+    <item>
+      <title>唐纳德·特朗普的移民计划</title>
+      <link>https://www.nytimes.com/2024/11/27/briefing/donald-trump-immigration-plans.html</link>
+      <description><![CDATA[我们探讨特朗普的大规模驱逐目标。]]></description>
+      <guid>https://www.nytimes.com/2024/11/27/briefing/donald-trump-immigration-plans.html</guid>
+      <pubDate>Wed, 27 Nov 2024 11:43:01 GMT</pubDate>
+    </item>
     <item>
       <title>巴拉克·奥巴马的重大教训</title>
       <link>https://www.nytimes.com/2024/11/26/briefing/election-2024-barack-obama.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们探讨马斯克的议程和意识形态。]]></description>
       <guid>https://www.nytimes.com/2024/11/18/briefing/elon-musk-donald-trump.html</guid>
       <pubDate>Mon, 18 Nov 2024 11:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>屠龙二十年</title>
-      <link>https://www.nytimes.com/2024/11/17/briefing/world-of-warcraft-20th-anniversary.html</link>
-      <description><![CDATA[《魔兽世界》于二十年前首次发布。]]></description>
-      <guid>https://www.nytimes.com/2024/11/17/briefing/world-of-warcraft-20th-anniversary.html</guid>
-      <pubDate>Sun, 17 Nov 2024 12:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
