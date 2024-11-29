@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Nov 2024 11:45:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 11:36:33 GMT</lastBuildDate>
+    <item>
+      <title>感恩节剩菜</title>
+      <link>https://www.nytimes.com/2024/11/29/briefing/thanksgiving-leftovers.html</link>
+      <description><![CDATA[充分利用剩下的食物。]]></description>
+      <guid>https://www.nytimes.com/2024/11/29/briefing/thanksgiving-leftovers.html</guid>
+      <pubDate>Fri, 29 Nov 2024 11:36:33 GMT</pubDate>
+    </item>
     <item>
       <title>节日传统</title>
       <link>https://www.nytimes.com/2024/11/28/briefing/thanksgiving-arguments.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们探讨战争中最近发生的事件以及接下来可能发生的事情。]]></description>
       <guid>https://www.nytimes.com/2024/11/20/briefing/ukraine-russia-trump.html</guid>
       <pubDate>Wed, 20 Nov 2024 11:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么在杀死孩子？</title>
-      <link>https://www.nytimes.com/2024/11/19/briefing/childhood-death-rate.html</link>
-      <description><![CDATA[我们探讨美国的儿童死亡率。]]></description>
-      <guid>https://www.nytimes.com/2024/11/19/briefing/childhood-death-rate.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:17:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
