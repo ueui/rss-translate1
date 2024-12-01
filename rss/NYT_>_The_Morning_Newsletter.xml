@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Nov 2024 11:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:08:36 GMT</lastBuildDate>
+    <item>
+      <title>独特的歌剧之夜</title>
+      <link>https://www.nytimes.com/2024/12/01/briefing/opera-maria-angelina-jolie.html</link>
+      <description><![CDATA[与安吉丽娜朱莉一起在大都会歌剧院演出。]]></description>
+      <guid>https://www.nytimes.com/2024/12/01/briefing/opera-maria-angelina-jolie.html</guid>
+      <pubDate>Sun, 01 Dec 2024 12:08:36 GMT</pubDate>
+    </item>
     <item>
       <title>奉献爱心</title>
       <link>https://www.nytimes.com/2024/11/30/briefing/giving-love.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[市政府和州政府官员如何努力使城市变得更加宜居。]]></description>
       <guid>https://www.nytimes.com/2024/11/22/briefing/changes-in-new-york-city.html</guid>
       <pubDate>Fri, 22 Nov 2024 11:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的关税</title>
-      <link>https://www.nytimes.com/2024/11/21/briefing/trumps-tariffs.html</link>
-      <description><![CDATA[我们探讨了他承诺对进入美国的外国产品征收费用。]]></description>
-      <guid>https://www.nytimes.com/2024/11/21/briefing/trumps-tariffs.html</guid>
-      <pubDate>Thu, 21 Nov 2024 11:21:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
