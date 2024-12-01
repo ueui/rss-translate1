@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>黑客新闻：最新</title>
+    <link>https://news.ycombinator.com/newest</link>
+    <description>黑客新闻 RSS</description>
+    <lastBuildDate>Sun, 01 Dec 2024 14:25:44 GMT</lastBuildDate>
+    <item>
+      <title>代码来临 2024</title>
+      <link>https://adventofcode.com/2024/about</link>
+      <description><![CDATA[文章网址：https://adventofcode.com/2024/about
+评论网址：https://news.ycombinator.com/item?id=42287231
+积分：367
+评论数：132]]></description>
+      <guid>https://adventofcode.com/2024/about</guid>
+      <pubDate>Sun, 01 Dec 2024 09:09:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenWRT One 发布：首款专为 OpenWrt 设计的路由器</title>
+      <link>https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/</link>
+      <description><![CDATA[文章网址：https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/
+评论网址：https://news.ycombinator.com/item?id=42285689
+积分：227
+评论数：102]]></description>
+      <guid>https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/</guid>
+      <pubDate>Sun, 01 Dec 2024 02:34:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>地图 UI – 攻壳机动队</title>
+      <link>https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/</link>
+      <description><![CDATA[文章网址：https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/
+评论网址：https://news.ycombinator.com/item?id=42285676
+积分：133
+评论数：60]]></description>
+      <guid>https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/</guid>
+      <pubDate>Sun, 01 Dec 2024 02:32:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jeff Dean 回应 EDA 行业关于 AlphaChip 的言论</title>
+      <link>https://twitter.com/JeffDean/status/1858540085794451906</link>
+      <description><![CDATA[文章网址：https://twitter.com/JeffDean/status/1858540085794451906
+评论网址：https://news.ycombinator.com/item?id=42285128
+积分：167
+评论数：102]]></description>
+      <guid>https://twitter.com/JeffDean/status/1858540085794451906</guid>
+      <pubDate>Sun, 01 Dec 2024 00:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示 HN：开源私人家庭安全摄像头系统（端到端加密）</title>
+      <link>https://github.com/privastead/privastead</link>
+      <description><![CDATA[我需要一个家里的安全摄像头，它可以向我的智能手机发送运动通知，并允许我远程直播。但是，出于隐私方面的考虑，我找不到可以信任的摄像头。他们中的许多人将视频的纯文本上传到他们的服务器，据我所知，没有一个是完全开源的。因此，我决定利用业余时间从头开始构建一个。它被称为 Privastead（即 Private Homestead），使用 OpenMLS 进行端到端加密（在摄像头本地集线器和智能手机之间），并且主要用 Rust 实现（除了 Android 应用程序的一部分是用 Kotlin 实现的）。该系统现在可以运行，过去几周我一直在自己的房子里使用它。根据我在网上看到的一些讨论，似乎还有其他用户也担心家庭安全摄像头的隐私影响。因此，我决定开源我的解决方案供大家使用。如果您需要一款保护隐私的家庭安全摄像头，请尝试一下并提供反馈。请注意，试用该系统需要您拥有受支持的 IP 摄像头、连接到 IP 摄像头的本地机器、服务器和 Android 智能手机。我整理了有关设置系统的详细说明，希望这能让其他人更轻松地启动和运行系统。此外，请考虑为该项目做出贡献。原型目前有很多限制：主要是它只用一个 IP 摄像头进行了测试，只允许使用一个摄像头，并且只支持 Android。我会在时间允许的情况下继续改进原型，但如果还有其他贡献者，进度会快得多。
+
+评论网址：https://news.ycombinator.com/item?id=42284412
+积分：291
+评论数：86]]></description>
+      <guid>https://github.com/privastead/privastead</guid>
+      <pubDate>Sat, 30 Nov 2024 22:13:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅受 Microsoft 信任的巴西 CA 已为 google.com 颁发了证书</title>
+      <link>https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm</link>
+      <description><![CDATA[文章网址：https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm
+评论网址：https://news.ycombinator.com/item?id=42284202
+积分：426
+评论数：166]]></description>
+      <guid>https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm</guid>
+      <pubDate>Sat, 30 Nov 2024 21:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ntfs2btrfs 将 NTFS 文件系统就地转换为开源 Btrfs</title>
+      <link>https://github.com/maharmstone/ntfs2btrfs</link>
+      <description><![CDATA[文章网址：https://github.com/maharmstone/ntfs2btrfs
+评论网址：https://news.ycombinator.com/item?id=42283950
+积分：326
+评论数：114]]></description>
+      <guid>https://github.com/maharmstone/ntfs2btrfs</guid>
+      <pubDate>Sat, 30 Nov 2024 20:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 禁用 Zen 4 的循环缓冲区</title>
+      <link>https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer</link>
+      <description><![CDATA[文章网址：https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer
+评论网址：https://news.ycombinator.com/item?id=42283933
+积分：240
+评论数：86]]></description>
+      <guid>https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer</guid>
+      <pubDate>Sat, 30 Nov 2024 20:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>你必须至少读一本书才能骑行</title>
+      <link>https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/</link>
+      <description><![CDATA[文章网址：https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
+评论网址：https://news.ycombinator.com/item?id=42282717
+积分：203
+评论数：134]]></description>
+      <guid>https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/</guid>
+      <pubDate>Sat, 30 Nov 2024 17:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>蜜脆苹果从奇迹变成了平庸</title>
+      <link>https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117</link>
+      <description><![CDATA[文章网址：https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117
+评论网址：https://news.ycombinator.com/item?id=42282476
+积分：283
+评论数：263]]></description>
+      <guid>https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117</guid>
+      <pubDate>Sat, 30 Nov 2024 16:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>平方根和最大值</title>
+      <link>https://leancrew.com/all-this/2024/11/square-roots-and-maxima/</link>
+      <description><![CDATA[文章网址：https://leancrew.com/all-this/2024/11/square-roots-and-maxima/
+评论网址：https://news.ycombinator.com/item?id=42282112
+积分：105
+评论数：31]]></description>
+      <guid>https://leancrew.com/all-this/2024/11/square-roots-and-maxima/</guid>
+      <pubDate>Sat, 30 Nov 2024 15:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Rust 类型系统的安全关系数据库查询</title>
+      <link>https://blog.lucasholten.com/rust-query-announcement/</link>
+      <description><![CDATA[文章网址：https://blog.lucasholten.com/rust-query-announcement/
+评论网址：https://news.ycombinator.com/item?id=42280570
+积分：232
+评论数：130]]></description>
+      <guid>https://blog.lucasholten.com/rust-query-announcement/</guid>
+      <pubDate>Sat, 30 Nov 2024 09:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作新旧测试设备的屏幕截图</title>
+      <link>https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html</link>
+      <description><![CDATA[文章网址：https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html
+评论网址：https://news.ycombinator.com/item?id=42279792
+积分：122
+评论数：23]]></description>
+      <guid>https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html</guid>
+      <pubDate>Sat, 30 Nov 2024 05:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>睡眠工程</title>
+      <link>https://minjunes.ai/posts/sleep/index.html</link>
+      <description><![CDATA[文章网址：https://minjunes.ai/posts/sleep/index.html
+评论网址：https://news.ycombinator.com/item?id=42279454
+积分：407
+评论数：170]]></description>
+      <guid>https://minjunes.ai/posts/sleep/index.html</guid>
+      <pubDate>Sat, 30 Nov 2024 04:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果不是 React，那是什么？</title>
+      <link>https://infrequently.org/2024/11/if-not-react-then-what/</link>
+      <description><![CDATA[文章网址：https://infrequently.org/2024/11/if-not-react-then-what/
+评论网址：https://news.ycombinator.com/item?id=42279172
+积分：338
+评论数：603]]></description>
+      <guid>https://infrequently.org/2024/11/if-not-react-then-what/</guid>
+      <pubDate>Sat, 30 Nov 2024 03:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，Sol-Ark 制造商已在美国停用所有 Deye 逆变器</title>
+      <link>https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/</link>
+      <description><![CDATA[文章网址：https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/
+评论网址：https://news.ycombinator.com/item?id=42279010
+积分：266
+评论数：241]]></description>
+      <guid>https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/</guid>
+      <pubDate>Sat, 30 Nov 2024 02:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局的木卫二快船：下潜数英里，仪器正在部署</title>
+      <link>https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/</link>
+      <description><![CDATA[文章网址：https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/
+评论网址：https://news.ycombinator.com/item?id=42278148
+积分：155
+评论数：59]]></description>
+      <guid>https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/</guid>
+      <pubDate>Fri, 29 Nov 2024 23:47:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluesky 的互动效果更佳</title>
+      <link>https://bsky.social/about/blog/11-29-2024-engagement</link>
+      <description><![CDATA[文章网址：https://bsky.social/about/blog/11-29-2024-engagement
+评论网址：https://news.ycombinator.com/item?id=42277963
+积分：111
+评论数：148]]></description>
+      <guid>https://bsky.social/about/blog/11-29-2024-engagement</guid>
+      <pubDate>Fri, 29 Nov 2024 23:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wacław Szpakowski 的几何线条艺术 (2017)</title>
+      <link>https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/</link>
+      <description><![CDATA[文章网址：https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/
+评论网址：https://news.ycombinator.com/item?id=42277850
+积分：412
+评论数：46]]></description>
+      <guid>https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/</guid>
+      <pubDate>Fri, 29 Nov 2024 22:54:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的衰落</title>
+      <link>https://www.baldurbjarnason.com/2024/the-deterioration-of-google/</link>
+      <description><![CDATA[文章网址：https://www.baldurbjarnason.com/2024/the-deterioration-of-google/
+评论网址：https://news.ycombinator.com/item?id=42277673
+积分：317
+评论数：256]]></description>
+      <guid>https://www.baldurbjarnason.com/2024/the-deterioration-of-google/</guid>
+      <pubDate>Fri, 29 Nov 2024 22:26:43 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
