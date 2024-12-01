@@ -38,7 +38,7 @@
  - source025 [https://politepol.com/fd/cvqP0wDPuxlB.xml](https://politepol.com/fd/cvqP0wDPuxlB.xml) -> [U.S.Environmental_ProtectionAgency_Perspectives](rss/U.S.Environmental_ProtectionAgency_Perspectives.xml)
  - source026 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml) -> [Henley_&_Partners_Press_Media_Articles](rss/Henley_%26_Partners_Press_Media_Articles.xml)
  - source027 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml) -> [Henley_&_Partners_Press_Releases](rss/Henley_%26_Partners_Press_Releases.xml)
- - source028 [http://rsshub.app/telegram/channel/hackerNewsSummary007](http://rsshub.app/telegram/channel/hackerNewsSummary007) -> [HackerNews](rss/HackerNews.xml)
+ - source028 [https://rsshub.app/telegram/channel/hackerNewsSummary007](https://rsshub.app/telegram/channel/hackerNewsSummary007) -> [HackerNews](rss/HackerNews.xml)
  - source029 [https://politepol.com/fd/4xQQiGU8EYLt.xml](https://politepol.com/fd/4xQQiGU8EYLt.xml) -> [people_celebrity_legal_lawsuits](rss/people_celebrity_legal_lawsuits.xml)
  - source030 [https://perezhilton.com/category/controversy/feed](https://perezhilton.com/category/controversy/feed) -> [perezhilton_Controversy](rss/perezhilton_Controversy.xml)
  - source031 [https://perezhilton.com/category/love-line/feed](https://perezhilton.com/category/love-line/feed) -> [perezhilton_Relationships](rss/perezhilton_Relationships.xml)
