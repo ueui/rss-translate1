@@ -4,13 +4,13 @@
     <title>纽约时报 > 图书 > 书评</title>
     <link>https://www.nytimes.com/section/books/review</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Dec 2024 19:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 22:25:09 GMT</lastBuildDate>
     <item>
       <title>2024 年 10 部最佳图书</title>
       <link>https://www.nytimes.com/2024/12/03/books/best-books-2024.html</link>
       <description><![CDATA[《纽约时报书评》的工作人员评选出了年度最佳小说和非小说类图书。]]></description>
       <guid>https://www.nytimes.com/2024/12/03/books/best-books-2024.html</guid>
-      <pubDate>Tue, 03 Dec 2024 19:24:35 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 22:25:09 GMT</pubDate>
     </item>
     <item>
       <title>2024 年 100 本值得关注的书籍</title>
@@ -22,7 +22,7 @@
     <item>
       <title>谈论 2024 年最佳图书</title>
       <link>https://www.nytimes.com/2024/12/03/books/review/best-books-podcast.html</link>
-      <description><![CDATA[一群编辑讨论今年最杰出的小说和非小说类作品。]]></description>
+      <description><![CDATA[一群编辑探讨今年最杰出的小说和非小说类作品。]]></description>
       <guid>https://www.nytimes.com/2024/12/03/books/review/best-books-podcast.html</guid>
       <pubDate>Tue, 03 Dec 2024 18:17:08 GMT</pubDate>
     </item>
@@ -69,11 +69,25 @@
       <pubDate>Tue, 03 Dec 2024 10:00:23 GMT</pubDate>
     </item>
     <item>
+      <title>《已故伟大地球》作者哈尔·林赛逝世，享年 95 岁</title>
+      <link>https://www.nytimes.com/2024/11/30/books/hal-lindsey-dead.html</link>
+      <description><![CDATA[在这本 1970 年出版的书中以及其他书中，他根据圣经的解释和当时的实际事件撰写了历史和末世预言。]]></description>
+      <guid>https://www.nytimes.com/2024/11/30/books/hal-lindsey-dead.html</guid>
+      <pubDate>Mon, 02 Dec 2024 21:07:36 GMT</pubDate>
+    </item>
+    <item>
       <title>测试一下这些改编成电影的青少年小说</title>
       <link>https://www.nytimes.com/interactive/2024/12/02/books/review/teen-books-movies.html</link>
       <description><![CDATA[青少年小说经常被改编成青少年电影。通过这个小测验测试一下自己对这五本书及其改编作品的了解程度。]]></description>
       <guid>https://www.nytimes.com/interactive/2024/12/02/books/review/teen-books-movies.html</guid>
       <pubDate>Mon, 02 Dec 2024 14:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>书评：《桑德海姆如何改变你的生活》作者：理查德·肖克</title>
+      <link>https://www.nytimes.com/2024/11/30/books/review/how-sondheim-can-change-your-life-richard-schoch.html</link>
+      <description><![CDATA[一本深刻的新书《桑德海姆如何改变你的生活》探究了音乐剧大师非凡的职业生涯。]]></description>
+      <guid>https://www.nytimes.com/2024/11/30/books/review/how-sondheim-can-change-your-life-richard-schoch.html</guid>
+      <pubDate>Mon, 02 Dec 2024 14:39:07 GMT</pubDate>
     </item>
     <item>
       <title>书评：《爱你，乔》，乔·布雷纳德著</title>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 02 Dec 2024 10:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>一个长期保守的秘密现已公开。这会改变科马克·麦卡锡的遗产吗？</title>
-      <link>https://www.nytimes.com/2024/11/23/books/cormac-mccarthy-muse.html</link>
-      <description><![CDATA[关于作者与 16 岁女孩的恋情的披露让读者感到震惊，但研究他作品的学者却并不惊讶。现在关于她对他的写作有多大影响的争论还在继续。]]></description>
-      <guid>https://www.nytimes.com/2024/11/23/books/cormac-mccarthy-muse.html</guid>
-      <pubDate>Tue, 26 Nov 2024 18:31:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>10本关于感恩的迷人图画书</title>
-      <link>https://www.nytimes.com/2024/11/25/books/childrens-books-thanksgiving-gratitude.html</link>
-      <description><![CDATA[关于奉献和欣赏日常奇迹的故事将会在这个假期温暖人心并传授宝贵的教训。]]></description>
-      <guid>https://www.nytimes.com/2024/11/25/books/childrens-books-thanksgiving-gratitude.html</guid>
-      <pubDate>Mon, 25 Nov 2024 10:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>新犯罪小说</title>
-      <link>https://www.nytimes.com/2024/11/22/books/review/new-crime-fiction.html</link>
-      <description><![CDATA[我们评选的十一月最佳新书。]]></description>
-      <guid>https://www.nytimes.com/2024/11/22/books/review/new-crime-fiction.html</guid>
-      <pubDate>Fri, 22 Nov 2024 16:07:30 GMT</pubDate>
+      <title>书评：《公寓女性》（作者：具秉模）</title>
+      <link>https://www.nytimes.com/2024/12/01/books/review/apartment-women-gu-byeong-mo.html</link>
+      <description><![CDATA[韩国作家具秉模的小说《公寓女性》描绘了一个脾气暴躁的年轻家庭组成的公社。]]></description>
+      <guid>https://www.nytimes.com/2024/12/01/books/review/apartment-women-gu-byeong-mo.html</guid>
+      <pubDate>Sun, 01 Dec 2024 10:00:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
