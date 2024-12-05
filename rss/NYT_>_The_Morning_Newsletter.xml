@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Dec 2024 22:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 11:41:29 GMT</lastBuildDate>
+    <item>
+      <title>死亡与税收</title>
+      <link>https://www.nytimes.com/2024/12/05/briefing/estate-taxes.html</link>
+      <description><![CDATA[我们解释为什么遗产税不起作用。]]></description>
+      <guid>https://www.nytimes.com/2024/12/05/briefing/estate-taxes.html</guid>
+      <pubDate>Thu, 05 Dec 2024 11:41:29 GMT</pubDate>
+    </item>
     <item>
       <title>禽流感解析</title>
       <link>https://www.nytimes.com/2024/12/04/briefing/bird-flu-explained.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们对 2024 年大选进行了分析。]]></description>
       <guid>https://www.nytimes.com/2024/11/26/briefing/election-2024-barack-obama.html</guid>
       <pubDate>Tue, 26 Nov 2024 11:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候变化</title>
-      <link>https://www.nytimes.com/2024/11/25/briefing/donald-trump-climate-policies.html</link>
-      <description><![CDATA[我们探讨唐纳德·特朗普的气候议程。]]></description>
-      <guid>https://www.nytimes.com/2024/11/25/briefing/donald-trump-climate-policies.html</guid>
-      <pubDate>Mon, 25 Nov 2024 11:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
