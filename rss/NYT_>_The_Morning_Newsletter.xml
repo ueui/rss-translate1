@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Dec 2024 15:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 11:41:48 GMT</lastBuildDate>
+    <item>
+      <title>叙利亚正在发生什么</title>
+      <link>https://www.nytimes.com/2024/12/06/briefing/what-is-happening-in-syria.html</link>
+      <description><![CDATA[我们介绍该国内战的最新情况。]]></description>
+      <guid>https://www.nytimes.com/2024/12/06/briefing/what-is-happening-in-syria.html</guid>
+      <pubDate>Fri, 06 Dec 2024 11:41:48 GMT</pubDate>
+    </item>
     <item>
       <title>死亡与税收</title>
       <link>https://www.nytimes.com/2024/12/05/briefing/estate-taxes.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们探讨特朗普的大规模驱逐目标。]]></description>
       <guid>https://www.nytimes.com/2024/11/27/briefing/donald-trump-immigration-plans.html</guid>
       <pubDate>Wed, 27 Nov 2024 11:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴拉克·奥巴马的重大教训</title>
-      <link>https://www.nytimes.com/2024/11/26/briefing/election-2024-barack-obama.html</link>
-      <description><![CDATA[我们对 2024 年大选进行了分析。]]></description>
-      <guid>https://www.nytimes.com/2024/11/26/briefing/election-2024-barack-obama.html</guid>
-      <pubDate>Tue, 26 Nov 2024 11:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
