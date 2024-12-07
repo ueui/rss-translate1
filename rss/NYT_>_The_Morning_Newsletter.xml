@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Dec 2024 18:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 11:19:58 GMT</lastBuildDate>
+    <item>
+      <title>年度回顾</title>
+      <link>https://www.nytimes.com/2024/12/07/briefing/year-in-review.html</link>
+      <description><![CDATA[随着评论家发布年终榜单，我们想知道您个人最喜欢的 2024 年电影。]]></description>
+      <guid>https://www.nytimes.com/2024/12/07/briefing/year-in-review.html</guid>
+      <pubDate>Sat, 07 Dec 2024 11:19:58 GMT</pubDate>
+    </item>
     <item>
       <title>叙利亚正在发生什么</title>
       <link>https://www.nytimes.com/2024/12/06/briefing/syria-civil-war-assad.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们正在讨论过去的感恩节争论。]]></description>
       <guid>https://www.nytimes.com/2024/11/28/briefing/thanksgiving-arguments.html</guid>
       <pubDate>Thu, 28 Nov 2024 11:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐纳德·特朗普的移民计划</title>
-      <link>https://www.nytimes.com/2024/11/27/briefing/donald-trump-immigration-plans.html</link>
-      <description><![CDATA[我们探讨特朗普的大规模驱逐目标。]]></description>
-      <guid>https://www.nytimes.com/2024/11/27/briefing/donald-trump-immigration-plans.html</guid>
-      <pubDate>Wed, 27 Nov 2024 11:43:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
