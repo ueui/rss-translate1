@@ -38,7 +38,7 @@
  - source025 [https://politepol.com/fd/cvqP0wDPuxlB.xml](https://politepol.com/fd/cvqP0wDPuxlB.xml) -> [U.S.Environmental_ProtectionAgency_Perspectives](rss/U.S.Environmental_ProtectionAgency_Perspectives.xml)
  - source026 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f2e875b2ee091ae0947c2.xml) -> [Henley_&_Partners_Press_Media_Articles](rss/Henley_%26_Partners_Press_Media_Articles.xml)
  - source027 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml) -> [Henley_&_Partners_Press_Releases](rss/Henley_%26_Partners_Press_Releases.xml)
- - source028 []() -> [](rss/.xml)
+ - source028 [https://siftrss.com/f/klPPkl0rRg](https://siftrss.com/f/klPPkl0rRg) -> [特集：日経クロストレンド](rss/%E7%89%B9%E9%9B%86%EF%BC%9A%E6%97%A5%E7%B5%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89.xml)
  - source029 [https://politepol.com/fd/4xQQiGU8EYLt.xml](https://politepol.com/fd/4xQQiGU8EYLt.xml) -> [people_celebrity_legal_lawsuits](rss/people_celebrity_legal_lawsuits.xml)
  - source030 []() -> [](rss/.xml)
  - source031 []() -> [](rss/.xml)
