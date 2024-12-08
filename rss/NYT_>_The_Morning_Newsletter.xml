@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Dec 2024 11:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 12:47:11 GMT</lastBuildDate>
+    <item>
+      <title>阿萨德统治结束</title>
+      <link>https://www.nytimes.com/2024/12/08/briefing/syria-rebels-assad.html</link>
+      <description><![CDATA[我们解释叙利亚的最新事态发展。]]></description>
+      <guid>https://www.nytimes.com/2024/12/08/briefing/syria-rebels-assad.html</guid>
+      <pubDate>Sun, 08 Dec 2024 12:47:11 GMT</pubDate>
+    </item>
     <item>
       <title>年度回顾</title>
       <link>https://www.nytimes.com/2024/12/07/briefing/year-in-review.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[充分利用剩下的食物。]]></description>
       <guid>https://www.nytimes.com/2024/11/29/briefing/thanksgiving-leftovers.html</guid>
       <pubDate>Fri, 29 Nov 2024 11:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>节日传统</title>
-      <link>https://www.nytimes.com/2024/11/28/briefing/thanksgiving-arguments.html</link>
-      <description><![CDATA[我们正在讨论过去的感恩节争论。]]></description>
-      <guid>https://www.nytimes.com/2024/11/28/briefing/thanksgiving-arguments.html</guid>
-      <pubDate>Thu, 28 Nov 2024 11:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
