@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Dec 2024 17:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 11:57:55 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰的最后博弈</title>
+      <link>https://www.nytimes.com/2024/12/13/briefing/the-end-game-in-ukraine.html</link>
+      <description><![CDATA[战争如何才能在明年结束。]]></description>
+      <guid>https://www.nytimes.com/2024/12/13/briefing/the-end-game-in-ukraine.html</guid>
+      <pubDate>Fri, 13 Dec 2024 11:57:55 GMT</pubDate>
+    </item>
     <item>
       <title>首席执行官们正在绊倒</title>
       <link>https://www.nytimes.com/2024/12/12/briefing/ceos-are-tripping.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们探讨您是否应该担心。]]></description>
       <guid>https://www.nytimes.com/2024/12/04/briefing/bird-flu-explained.html</guid>
       <pubDate>Wed, 04 Dec 2024 22:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么投票率不是民主党的问题</title>
-      <link>https://www.nytimes.com/2024/12/03/briefing/why-turnout-wasnt-the-democrats-problem.html</link>
-      <description><![CDATA[我们探索该假设背后的数据。]]></description>
-      <guid>https://www.nytimes.com/2024/12/03/briefing/why-turnout-wasnt-the-democrats-problem.html</guid>
-      <pubDate>Tue, 03 Dec 2024 11:48:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
