@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Dec 2024 18:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 11:03:41 GMT</lastBuildDate>
+    <item>
+      <title>甜蜜季节</title>
+      <link>https://www.nytimes.com/2024/12/14/briefing/sweet-season.html</link>
+      <description><![CDATA[假期到了。是时候开始烘焙了。]]></description>
+      <guid>https://www.nytimes.com/2024/12/14/briefing/sweet-season.html</guid>
+      <pubDate>Sat, 14 Dec 2024 11:03:41 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰的最后博弈</title>
       <link>https://www.nytimes.com/2024/12/13/briefing/russia-ukraine-war.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们解释为什么遗产税不起作用。]]></description>
       <guid>https://www.nytimes.com/2024/12/05/briefing/estate-taxes.html</guid>
       <pubDate>Thu, 05 Dec 2024 15:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>禽流感解析</title>
-      <link>https://www.nytimes.com/2024/12/04/briefing/bird-flu-explained.html</link>
-      <description><![CDATA[我们探讨您是否应该担心。]]></description>
-      <guid>https://www.nytimes.com/2024/12/04/briefing/bird-flu-explained.html</guid>
-      <pubDate>Wed, 04 Dec 2024 22:07:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
