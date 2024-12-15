@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Dec 2024 11:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 13:08:37 GMT</lastBuildDate>
+    <item>
+      <title>纽约之旅</title>
+      <link>https://www.nytimes.com/2024/12/15/briefing/a-trip-to-new-york.html</link>
+      <description><![CDATA[专家建议充分利用纽约市的假期。]]></description>
+      <guid>https://www.nytimes.com/2024/12/15/briefing/a-trip-to-new-york.html</guid>
+      <pubDate>Sun, 15 Dec 2024 13:08:37 GMT</pubDate>
+    </item>
     <item>
       <title>甜蜜季节</title>
       <link>https://www.nytimes.com/2024/12/14/briefing/sweet-season.html</link>
@@ -50,7 +57,7 @@
     <item>
       <title>叙利亚正在发生什么</title>
       <link>https://www.nytimes.com/2024/12/06/briefing/syria-civil-war-assad.html</link>
-      <description><![CDATA[我们介绍该国内战的最新情况。]]></description>
+      <description><![CDATA[我们介绍该国内战的最新消息。]]></description>
       <guid>https://www.nytimes.com/2024/12/06/briefing/syria-civil-war-assad.html</guid>
       <pubDate>Sun, 08 Dec 2024 20:12:49 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[随着评论家发布年终榜单，我们想知道您个人最喜欢的 2024 年电影。]]></description>
       <guid>https://www.nytimes.com/2024/12/07/briefing/year-in-review.html</guid>
       <pubDate>Sat, 07 Dec 2024 11:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>死亡与税收</title>
-      <link>https://www.nytimes.com/2024/12/05/briefing/estate-taxes.html</link>
-      <description><![CDATA[我们解释为什么遗产税不起作用。]]></description>
-      <guid>https://www.nytimes.com/2024/12/05/briefing/estate-taxes.html</guid>
-      <pubDate>Thu, 05 Dec 2024 15:37:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
