@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Dec 2024 06:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 11:42:36 GMT</lastBuildDate>
+    <item>
+      <title>关税的意外后果</title>
+      <link>https://www.nytimes.com/2024/12/17/briefing/vietnam-china-us-trade-war.html</link>
+      <description><![CDATA[最大的受益者往往出现在贸易战的国家之外。]]></description>
+      <guid>https://www.nytimes.com/2024/12/17/briefing/vietnam-china-us-trade-war.html</guid>
+      <pubDate>Tue, 17 Dec 2024 11:42:36 GMT</pubDate>
+    </item>
     <item>
       <title>混乱的开始</title>
       <link>https://www.nytimes.com/2024/12/16/briefing/donald-trump-appointments.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们解释叙利亚的最新事态发展。]]></description>
       <guid>https://www.nytimes.com/2024/12/08/briefing/syria-rebels-assad.html</guid>
       <pubDate>Sun, 08 Dec 2024 12:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>年度回顾</title>
-      <link>https://www.nytimes.com/2024/12/07/briefing/year-in-review.html</link>
-      <description><![CDATA[随着评论家发布年终榜单，我们想知道您个人最喜欢的 2024 年电影。]]></description>
-      <guid>https://www.nytimes.com/2024/12/07/briefing/year-in-review.html</guid>
-      <pubDate>Sat, 07 Dec 2024 11:19:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
