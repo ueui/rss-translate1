@@ -3,8 +3,15 @@
   <channel>
     <title>文化 | 经济学人</title>
     <link>https://www.economist.com/culture</link>
-    <description>《经济学人》的文化。您已经看过新闻，现在来了解一下故事。</description>
-    <lastBuildDate>Sat, 14 Dec 2024 15:14:27 GMT</lastBuildDate>
+    <description>《经济学人》的文化。您已经看过新闻，现在来发现故事。</description>
+    <lastBuildDate>Thu, 19 Dec 2024 21:13:48 GMT</lastBuildDate>
+    <item>
+      <title>关于冬天的最佳音乐</title>
+      <link>https://www.economist.com/culture/2024/12/19/the-best-music-written-about-winter</link>
+      <description><![CDATA[（使用 FetchRSS 生成的 Feed）]]></description>
+      <guid>https://www.economist.com/culture/2024/12/19/the-best-music-written-about-winter</guid>
+      <pubDate>Thu, 19 Dec 2024 21:13:48 GMT</pubDate>
+    </item>
     <item>
       <title>圣诞电影俗气、无聊，却广受喜爱。为什么呢？</title>
       <link>https://www.economist.com/culture/2024/12/13/christmas-films-are-cheesy-mindless-and-widely-loved-why</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[（使用 FetchRSS 生成的 Feed）]]></description>
       <guid>https://www.economist.com/culture/2024/12/12/the-novel-was-a-dominant-art-form-last-century</guid>
       <pubDate>Fri, 13 Dec 2024 14:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯东正教会与克里姆林宫的邪恶联盟</title>
-      <link>https://www.economist.com/culture/2024/12/11/the-unholy-alliance-of-the-russian-orthodox-church-and-the-kremlin</link>
-      <description><![CDATA[（使用 FetchRSS 生成的 Feed）]]></description>
-      <guid>https://www.economist.com/culture/2024/12/11/the-unholy-alliance-of-the-russian-orthodox-church-and-the-kremlin</guid>
-      <pubDate>Thu, 12 Dec 2024 13:47:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
