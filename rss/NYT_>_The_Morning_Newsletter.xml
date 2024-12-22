@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Dec 2024 11:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 12:34:17 GMT</lastBuildDate>
+    <item>
+      <title>鲍勃·迪伦之谜</title>
+      <link>https://www.nytimes.com/2024/12/22/briefing/bob-dylan-a-complete-unknown.html</link>
+      <description><![CDATA[我们报道了一部有关这位创作型歌手的新电影。]]></description>
+      <guid>https://www.nytimes.com/2024/12/22/briefing/bob-dylan-a-complete-unknown.html</guid>
+      <pubDate>Sun, 22 Dec 2024 12:34:17 GMT</pubDate>
+    </item>
     <item>
       <title>你最喜欢的东西</title>
       <link>https://www.nytimes.com/2024/12/21/briefing/your-favorite-things.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[战争如何才能在明年结束。]]></description>
       <guid>https://www.nytimes.com/2024/12/13/briefing/russia-ukraine-war.html</guid>
       <pubDate>Fri, 13 Dec 2024 11:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席执行官们正在绊倒</title>
-      <link>https://www.nytimes.com/2024/12/12/briefing/ceos-are-tripping.html</link>
-      <description><![CDATA[高管为何要使用迷幻药来获得成功。]]></description>
-      <guid>https://www.nytimes.com/2024/12/12/briefing/ceos-are-tripping.html</guid>
-      <pubDate>Thu, 12 Dec 2024 11:43:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
