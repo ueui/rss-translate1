@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Dec 2024 14:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 11:51:47 GMT</lastBuildDate>
+    <item>
+      <title>游戏日</title>
+      <link>https://www.nytimes.com/2024/12/24/briefing/a-day-for-games.html</link>
+      <description><![CDATA[以下是一些您可以在假期期间玩的游戏。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/briefing/a-day-for-games.html</guid>
+      <pubDate>Tue, 24 Dec 2024 11:51:47 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最佳时代图形</title>
       <link>https://www.nytimes.com/2024/12/23/briefing/best-times-graphics-of-2024.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[专家建议充分利用纽约市的假期。]]></description>
       <guid>https://www.nytimes.com/2024/12/15/briefing/a-trip-to-new-york.html</guid>
       <pubDate>Sun, 15 Dec 2024 16:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>甜蜜季节</title>
-      <link>https://www.nytimes.com/2024/12/14/briefing/sweet-season.html</link>
-      <description><![CDATA[假期到了。是时候开始烘焙了。]]></description>
-      <guid>https://www.nytimes.com/2024/12/14/briefing/sweet-season.html</guid>
-      <pubDate>Sat, 14 Dec 2024 11:03:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
