@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Dec 2024 11:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 11:37:03 GMT</lastBuildDate>
+    <item>
+      <title>年度新闻</title>
+      <link>https://www.nytimes.com/2024/12/26/briefing/the-year-in-news.html</link>
+      <description><![CDATA[一场选举。一次枪击事件。一次日食。中东和乌克兰的战争。]]></description>
+      <guid>https://www.nytimes.com/2024/12/26/briefing/the-year-in-news.html</guid>
+      <pubDate>Thu, 26 Dec 2024 11:37:03 GMT</pubDate>
+    </item>
     <item>
       <title>是什么让我们继续前行</title>
       <link>https://www.nytimes.com/2024/12/25/briefing/memes-movies-music-2024.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[最大的受益者往往出现在贸易战的国家之外。]]></description>
       <guid>https://www.nytimes.com/2024/12/17/briefing/vietnam-china-us-trade-war.html</guid>
       <pubDate>Tue, 17 Dec 2024 11:42:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>混乱的开始</title>
-      <link>https://www.nytimes.com/2024/12/16/briefing/donald-trump-appointments.html</link>
-      <description><![CDATA[我们报道唐纳德·特朗普第二任期内将会围绕的人物。]]></description>
-      <guid>https://www.nytimes.com/2024/12/16/briefing/donald-trump-appointments.html</guid>
-      <pubDate>Mon, 16 Dec 2024 11:32:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
