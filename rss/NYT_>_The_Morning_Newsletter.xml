@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 00:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 11:40:53 GMT</lastBuildDate>
+    <item>
+      <title>被忽视的故事</title>
+      <link>https://www.nytimes.com/2024/12/27/briefing/overlooked-stories.html</link>
+      <description><![CDATA[阅读一些您今年可能错过的最好的新闻报道。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/briefing/overlooked-stories.html</guid>
+      <pubDate>Fri, 27 Dec 2024 11:40:53 GMT</pubDate>
+    </item>
     <item>
       <title>年度新闻</title>
       <link>https://www.nytimes.com/2024/12/26/briefing/the-year-in-news.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这一年充满了非凡的时刻——《时报》摄影师用非凡的照片捕捉到了这些时刻。]]></description>
       <guid>https://www.nytimes.com/2024/12/18/briefing/2024-the-year-in-pictures.html</guid>
       <pubDate>Wed, 18 Dec 2024 15:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>关税的意外后果</title>
-      <link>https://www.nytimes.com/2024/12/17/briefing/vietnam-china-us-trade-war.html</link>
-      <description><![CDATA[最大的受益者往往出现在贸易战的国家之外。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/briefing/vietnam-china-us-trade-war.html</guid>
-      <pubDate>Tue, 17 Dec 2024 11:42:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
