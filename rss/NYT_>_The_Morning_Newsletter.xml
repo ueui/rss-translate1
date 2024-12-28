@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 14:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 11:09:25 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳建议</title>
+      <link>https://www.nytimes.com/2024/12/28/briefing/your-best-advice-of-2024.html</link>
+      <description><![CDATA[展望未来，以下是《晨报》读者今年收到的最佳建议。]]></description>
+      <guid>https://www.nytimes.com/2024/12/28/briefing/your-best-advice-of-2024.html</guid>
+      <pubDate>Sat, 28 Dec 2024 11:09:25 GMT</pubDate>
+    </item>
     <item>
       <title>被忽视的故事</title>
       <link>https://www.nytimes.com/2024/12/27/briefing/overlooked-stories.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>年度新闻</title>
       <link>https://www.nytimes.com/2024/12/26/briefing/the-year-in-news.html</link>
-      <description><![CDATA[一场选举。一次枪击。一次日食。中东和乌克兰的战争。]]></description>
+      <description><![CDATA[一场选举。一次枪击事件。一次日食。中东和乌克兰的战争。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/briefing/the-year-in-news.html</guid>
       <pubDate>Thu, 26 Dec 2024 12:32:13 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们从民主党 2024 年的失败中吸取了教训。]]></description>
       <guid>https://www.nytimes.com/2024/12/19/briefing/democrats-2024-defeat.html</guid>
       <pubDate>Thu, 19 Dec 2024 17:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>定义 2024 年的照片</title>
-      <link>https://www.nytimes.com/2024/12/18/briefing/2024-the-year-in-pictures.html</link>
-      <description><![CDATA[这一年充满了非凡的时刻——《时报》摄影师用非凡的照片捕捉到了这些时刻。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/briefing/2024-the-year-in-pictures.html</guid>
-      <pubDate>Wed, 18 Dec 2024 15:46:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
