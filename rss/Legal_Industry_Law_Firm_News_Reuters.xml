@@ -1,100 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新法律新闻 | 今日头条 | 路透社</title>
-    <link>https://www.reuters.com/legal/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新法律新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 提供支持</description>
-    <lastBuildDate>Sun, 29 Dec 2024 10:40:05 GMT</lastBuildDate>
+    <title>法律行业和律师事务所新闻 | 路透社</title>
+    <link>https://www.reuters.com/legal/legalindustry/</link>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新法律行业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 提供支持</description>
+    <lastBuildDate>Sun, 29 Dec 2024 11:03:12 GMT</lastBuildDate>
     <item>
-      <title>特朗普请求最高法院暂停禁止 TikTok 的法律</title>
-      <link>https://www.reuters.com/legal/trump-asks-supreme-court-pause-law-that-could-ban-tiktok-2024-12-27/</link>
-      <description><![CDATA[当选总统唐纳德·特朗普敦促美国最高法院暂停实施禁止流行社交媒体应用程序 TikTok 或强制出售该应用程序的法律，称自己上任后应该有时间寻求该问题的“政治解决方案”。]]></description>
-      <guid>https://www.reuters.com/legal/trump-asks-supreme-court-pause-law-that-could-ban-tiktok-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 22:43:53 GMT</pubDate>
+      <title>民主党议员质疑美国新司法财务披露政策</title>
+      <link>https://www.reuters.com/legal/government/democratic-lawmakers-question-new-us-judicial-financial-disclosure-policy-2024-12-27/</link>
+      <description><![CDATA[国会两名民主党议员正在寻求有关美国新司法政策的更多信息，该政策规定美国最高法院法官和其他联邦法官何时必须公开披露他们之前未报告的旅行相关礼物。]]></description>
+      <guid>https://www.reuters.com/legal/government/democratic-lawmakers-question-new-us-judicial-financial-disclosure-policy-2024-12-27/</guid>
+      <pubDate>Fri, 27 Dec 2024 18:36:35 GMT</pubDate>
     </item>
     <item>
-      <title>纽约地铁火灾嫌疑人被指控谋杀、纵火</title>
-      <link>https://www.reuters.com/legal/suspect-deadly-new-york-city-subway-fire-indicted-murder-arson-charges-2024-12-27/</link>
-      <description><![CDATA[检察官宣布，一名男子被指控纵火杀害了一名在纽约地铁车厢内睡觉的女子，该男子于周五被大陪审团以谋杀和纵火罪起诉。]]></description>
-      <guid>https://www.reuters.com/legal/suspect-deadly-new-york-city-subway-fire-indicted-murder-arson-charges-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 21:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>先锋集团与美国银行监管机构就银行股权控制权达成协议</title>
-      <link>https://www.reuters.com/business/finance/fdic-strikes-passivity-deal-with-vanguard-2024-12-27/</link>
-      <description><![CDATA[根据美国联邦存款保险公司周五公布的一项协议，该机构已与先锋集团达成协议，该协议将加强这家投资管理巨头在美国大型金融机构中持有大量股份的规则。]]></description>
-      <guid>https://www.reuters.com/business/finance/fdic-strikes-passivity-deal-with-vanguard-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 21:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程师在美国对与伊朗有关的致命无人机袭击案中拒不不认罪</title>
-      <link>https://www.reuters.com/world/engineer-pleads-not-guilty-us-case-over-deadly-iran-linked-drone-strike-2024-12-27/</link>
-      <description><![CDATA[一家半导体制造公司的前工程师周五对美国的指控表示不认罪，美国指控他非法为一家伊朗公司采购技术，而该公司制造了一架无人机的关键部件，该无人机于今年 1 月在约旦遭到伊朗支持的武装分子袭击，造成三名美国士兵死亡。]]></description>
-      <guid>https://www.reuters.com/world/engineer-pleads-not-guilty-us-case-over-deadly-iran-linked-drone-strike-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 20:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国将第九家电信公司列入遭中国支持的“盐台风”网络间谍活动攻击的公司名单</title>
-      <link>https://www.reuters.com/technology/cybersecurity/us-adds-9th-telcom-list-companies-hacked-by-chinese-backed-salt-typhoon-2024-12-27/</link>
-      <description><![CDATA[一位白宫高级官员周五表示，美国官员已将第九家电信公司列入受中国相关大规模网络间谍行动“盐台风”攻击的实体名单。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/us-adds-9th-telcom-list-companies-hacked-by-chinese-backed-salt-typhoon-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 19:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>杜克能源申请追回 11 亿美元飓风损失</title>
-      <link>https://www.reuters.com/business/energy/duke-energy-files-recover-11-bln-hurricane-costs-2024-12-27/</link>
-      <description><![CDATA[美国公用事业公司杜克能源周五表示，已向佛罗里达州公共服务委员会（FPSC）提交了一项计划，以收回该公司紧急启动和应对飓风黛比、海伦和米尔顿造成的约 11 亿美元直接成本。]]></description>
-      <guid>https://www.reuters.com/business/energy/duke-energy-files-recover-11-bln-hurricane-costs-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 19:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>言论自由倡导者告诉最高法院，美国 TikTok 法律让人联想到独裁统治</title>
-      <link>https://www.reuters.com/legal/free-speech-advocates-tell-supreme-court-us-tiktok-law-reminiscent-dictatorships-2024-12-27/</link>
-      <description><![CDATA[他们表示，保护美国人数据的最佳方式是通过隐私立法。]]></description>
-      <guid>https://www.reuters.com/legal/free-speech-advocates-tell-supreme-court-us-tiktok-law-reminiscent-dictatorships-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 19:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨西哥上季度拘留了近五十万前往美国的移民</title>
-      <link>https://www.reuters.com/world/americas/mexico-detains-almost-half-million-migrants-heading-us-last-quarter-2024-12-27/</link>
-      <description><![CDATA[墨西哥当局周五表示，自 10 月以来，墨西哥安全部队已拘留了大约 475,000 名非法移民，而美国当选总统唐纳德·特朗普则威胁墨西哥将征收关税，除非它阻止非法移民抵达两国边境。]]></description>
-      <guid>https://www.reuters.com/world/americas/mexico-detains-almost-half-million-migrants-heading-us-last-quarter-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 18:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>参议院情报委员会批评中情局对哈瓦那综合症的应对</title>
-      <link>https://www.reuters.com/world/us/senate-intelligence-panel-criticizes-cia-response-havana-syndrome-2024-12-27/</link>
-      <description><![CDATA[参议院两党情报委员会周五发布的一份报告批评了中央情报局对其员工中所谓的哈瓦那综合症健康问题的应对，称许多人没有得到足够的照顾。]]></description>
-      <guid>https://www.reuters.com/world/us/senate-intelligence-panel-criticizes-cia-response-havana-syndrome-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 17:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府提议制定新的网络安全规则，以限制医疗数据泄露的影响</title>
-      <link>https://www.reuters.com/technology/cybersecurity/biden-administration-proposes-new-cybersecurity-rules-limit-impact-healthcare-2024-12-27/</link>
-      <description><![CDATA[白宫一位高级官员周五表示，医疗保健机构可能需要加强网络安全，以更好地防止敏感信息被类似针对 Ascension 和 UnitedHealth 的网络攻击泄露。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/biden-administration-proposes-new-cybersecurity-rules-limit-impact-healthcare-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 17:39:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国上诉法院暂停执行反洗钱法</title>
-      <link>https://www.reuters.com/legal/us-appeals-court-halts-enforcement-anti-money-laundering-law-2024-12-27/</link>
-      <description><![CDATA[美国上诉法院暂停了一项反洗钱法的执行，该法要求企业实体在大多数公司规定的最后期限之前向美国财政部披露其真实受益所有人的身份。]]></description>
-      <guid>https://www.reuters.com/legal/us-appeals-court-halts-enforcement-anti-money-laundering-law-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 13:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech 与美国机构宾夕法尼亚大学就 COVID 疫苗使用费达成和解</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-enters-settlement-with-us-agency-upenn-over-covid-vaccine-royalties-2024-12-27/</link>
-      <description><![CDATA[该公司在文件中表示，BioNTech 已与美国国立卫生研究院和宾夕法尼亚大学就其 COVID-19 疫苗相关特许权使用费支付达成两项单独的和解协议。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-enters-settlement-with-us-agency-upenn-over-covid-vaccine-royalties-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 12:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合健康与Amedisys延长33亿美元交易完成期限</title>
-      <link>https://www.reuters.com/markets/deals/unitedhealth-amedisys-waive-right-terminate-merger-agreement-2024-12-27/</link>
-      <description><![CDATA[周五的文件显示，联合健康集团和 Amedisys 已同意将 33 亿美元合并协议的完成期限延长至明年，因为该交易面临美国司法部的严格审查。]]></description>
-      <guid>https://www.reuters.com/markets/deals/unitedhealth-amedisys-waive-right-terminate-merger-agreement-2024-12-27/</guid>
-      <pubDate>Fri, 27 Dec 2024 11:24:48 GMT</pubDate>
+      <title>Jana Partners 任命第六位高管，推动 Lamb Weston 变革，文件显示</title>
+      <link>https://www.reuters.com/business/jana-partners-signs-up-sixth-executive-it-pushes-changes-lamb-weston-filing-2024-12-27/</link>
+      <description><![CDATA[根据周五提交的监管文件显示，Jana Partners 正在与第六位高管合作，推动 Lamb Weston 进行变革，这表明这位激进投资者可能寻求更换这家炸薯条制造商董事会的大多数成员。]]></description>
+      <guid>https://www.reuters.com/business/jana-partners-signs-up-sixth-executive-it-pushes-changes-lamb-weston-filing-2024-12-27/</guid>
+      <pubDate>Fri, 27 Dec 2024 13:45:01 GMT</pubDate>
     </item>
     <item>
       <title>2025 年科技公司将面临严峻的人工智能版权问题</title>
@@ -109,6 +32,83 @@
       <description><![CDATA[根据州长凯西·霍楚尔周四签署的一项法案，纽约州将在未来 25 年内向化石燃料公司处以总计 750 亿美元的罚款，以弥补其对气候造成的损害。]]></description>
       <guid>https://www.reuters.com/sustainability/new-york-fine-fossil-fuel-companies-75-billion-under-new-climate-law-2024-12-26/</guid>
       <pubDate>Thu, 26 Dec 2024 20:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年美国法律行业撤离中国势头进一步增强</title>
+      <link>https://www.reuters.com/legal/legalindustry/us-legal-industrys-china-retreat-gained-steam-2024-2024-12-26/</link>
+      <description><![CDATA[2024年，美国主要律师事务所迅速撤出大中华区法律市场，凸显出外国律师事务所在世界第二大经济体的前景不明朗。]]></description>
+      <guid>https://www.reuters.com/legal/legalindustry/us-legal-industrys-china-retreat-gained-steam-2024-2024-12-26/</guid>
+      <pubDate>Thu, 26 Dec 2024 11:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国法官承认与政治关联俱乐部对话“犯了错误”</title>
+      <link>https://www.reuters.com/legal/government/us-judge-acknowledges-mistake-speaking-politically-affiliated-club-2024-12-24/</link>
+      <description><![CDATA[一名联邦法官承认，他在一个未具名的“政治附属俱乐部”发表演讲违反了司法道德规则，并已采取措施确保他的演讲从该组织的 YouTube 频道上删除。]]></description>
+      <guid>https://www.reuters.com/legal/government/us-judge-acknowledges-mistake-speaking-politically-affiliated-club-2024-12-24/</guid>
+      <pubDate>Tue, 24 Dec 2024 17:18:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>泰森食品等家禽加工企业将支付 1.8 亿美元以解决工人的工资索赔</title>
+      <link>https://www.reuters.com/legal/litigation/tyson-other-poultry-processors-pay-180-million-settle-workers-wage-claims-2024-12-24/</link>
+      <description><![CDATA[泰森食品和其他八家家禽加工商已同意支付 1.8 亿美元，以解决美国法院指控他们合谋压低家禽工人工资的诉讼，该协议使得该案的总和解金额达到近 4 亿美元。]]></description>
+      <guid>https://www.reuters.com/legal/litigation/tyson-other-poultry-processors-pay-180-million-settle-workers-wage-claims-2024-12-24/</guid>
+      <pubDate>Tue, 24 Dec 2024 16:40:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis 子公司将支付 420 万美元以解决加州排放调查</title>
+      <link>https://www.reuters.com/business/autos-transportation/stellantis-unit-pay-42-million-resolve-california-emissions-probe-2024-12-24/</link>
+      <description><![CDATA[加州周一表示，Stellantis 旗下子公司 FCA US 同意支付 420 万美元，以解决加州对过量排放的调查。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/stellantis-unit-pay-42-million-resolve-california-emissions-probe-2024-12-24/</guid>
+      <pubDate>Tue, 24 Dec 2024 02:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年值得关注的大规模侵权诉讼</title>
+      <link>https://www.reuters.com/legal/government/mass-tort-litigation-watch-2025-2024-12-23/</link>
+      <description><![CDATA[明年，一些基于传统产品责任理论的大规模侵权诉讼将继续发生，而适用于非传统产品的新法律理论也有可能兴起。以下是 2025 年值得关注的一些顶级案件。]]></description>
+      <guid>https://www.reuters.com/legal/government/mass-tort-litigation-watch-2025-2024-12-23/</guid>
+      <pubDate>Mon, 23 Dec 2024 22:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arcadium Lithium 股东批准 67 亿美元力拓交易</title>
+      <link>https://www.reuters.com/markets/deals/arcadium-lithium-shareholders-approve-67-bln-rio-tinto-deal-2024-12-23/</link>
+      <description><![CDATA[Arcadium Lithium 周一表示，其股东已投票赞成以 67 亿美元的价格将其出售给澳大利亚矿业巨头力拓。]]></description>
+      <guid>https://www.reuters.com/markets/deals/arcadium-lithium-shareholders-approve-67-bln-rio-tinto-deal-2024-12-23/</guid>
+      <pubDate>Mon, 23 Dec 2024 21:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储根据法律裁决对银行压力测试提出重大修改</title>
+      <link>https://www.reuters.com/business/finance/fed-announces-changes-bank-stress-tests-boost-transparency-trim-volatility-2024-12-23/</link>
+      <description><![CDATA[美国联邦储备委员会周一表示，鉴于最近的法律发展，它正考虑对其年度银行“压力测试”进行重大修改，包括允许银行对其使用的模型发表评论，这是华尔街银行的重大胜利。]]></description>
+      <guid>https://www.reuters.com/business/finance/fed-announces-changes-bank-stress-tests-boost-transparency-trim-volatility-2024-12-23/</guid>
+      <pubDate>Mon, 23 Dec 2024 21:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>前法官结束了针对 Hagens Berman 律师事务所的制药费用裁决诉讼</title>
+      <link>https://www.reuters.com/legal/government/ex-judge-ends-lawsuit-against-law-firm-hagens-berman-over-pharma-fee-award-2024-12-23/</link>
+      <description><![CDATA[一位前联邦法官兼一家制药公司的董事撤回了他的诉讼，该诉讼指控全国原告律师事务所 Hagens Berman Sobol Shapiro 未能向他支付在起诉制药商惠氏的诉讼中应得的律师费。]]></description>
+      <guid>https://www.reuters.com/legal/government/ex-judge-ends-lawsuit-against-law-firm-hagens-berman-over-pharma-fee-award-2024-12-23/</guid>
+      <pubDate>Mon, 23 Dec 2024 17:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺德斯特龙家族将以 40 亿美元的价格将该零售商私有化</title>
+      <link>https://www.reuters.com/markets/deals/nordstrom-agrees-625-bln-buyout-deal-founding-family-2024-12-23/</link>
+      <description><![CDATA[诺德斯特龙家族与墨西哥零售商利物浦联手，达成 40 亿美元的交易，将标志性百货连锁店诺德斯特龙私有化，而六年前，类似的尝试失败了。]]></description>
+      <guid>https://www.reuters.com/markets/deals/nordstrom-agrees-625-bln-buyout-deal-founding-family-2024-12-23/</guid>
+      <pubDate>Mon, 23 Dec 2024 13:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>凯勒·波兹曼放弃诉讼后，Tubi 大规模仲裁将继续推进</title>
+      <link>https://www.reuters.com/legal/legalindustry/tubi-mass-arbitration-move-forward-after-keller-postman-drops-lawsuit-2024-12-20/</link>
+      <description><![CDATA[律师事务所凯勒波斯特 (Keller Postman) 撤销了在洛杉矶对流媒体视频网站 Tubi 提起的诉讼，该诉讼指控该网站存在诉讼不当行为，双方互相指责 Tubi 歧视其用户，并且凯勒波斯特向 Tubi 提出了毫无根据的大规模仲裁索赔。]]></description>
+      <guid>https://www.reuters.com/legal/legalindustry/tubi-mass-arbitration-move-forward-after-keller-postman-drops-lawsuit-2024-12-20/</guid>
+      <pubDate>Fri, 20 Dec 2024 22:58:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>西弗吉尼亚州律师协会因指定黑人成员担任董事会席位而遭起诉</title>
+      <link>https://www.reuters.com/legal/government/west-virginia-bar-sued-over-board-seat-designated-black-member-2024-12-20/</link>
+      <description><![CDATA[一个反对种族和性别偏好的全国性组织周四起诉西弗吉尼亚州律师协会的领导人，声称在其理事会中为黑人成员预留一个席位的政策是歧视性的。]]></description>
+      <guid>https://www.reuters.com/legal/government/west-virginia-bar-sued-over-board-seat-designated-black-member-2024-12-20/</guid>
+      <pubDate>Fri, 20 Dec 2024 20:29:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
