@@ -42,6 +42,6 @@
  - source029 [https://mastodon.social/@lawrencelry.rss](https://mastodon.social/@lawrencelry.rss) -> [mastodon_lawrencelry](rss/mastodon_lawrencelry.xml)
  - source030 [https://politepol.com/fd/NNLIg5PEAJ5L.xml](https://politepol.com/fd/NNLIg5PEAJ5L.xml) -> [Science & technology | The Economist](rss/Science%20%26%20technology%20%7C%20The%20Economist.xml)
  - source031 [https://politepol.com/fd/6UsKHJLrGfgp.xml](https://politepol.com/fd/6UsKHJLrGfgp.xml) -> [Briefing | The Economist](rss/Briefing%20%7C%20The%20Economist.xml)
- - source032 [https://rsshub.umzzz.com/telegram/channel/hackerNewsSummary007](https://rsshub.umzzz.com/telegram/channel/hackerNewsSummary007) -> [test](rss/test.xml)
+ - source032 []() -> [](rss/.xml)
  - source033 []() -> [](rss/.xml)
  - source034 []() -> [](rss/.xml)
