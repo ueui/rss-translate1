@@ -42,6 +42,6 @@
  - source029 [https://mastodon.social/@lawrencelry.rss](https://mastodon.social/@lawrencelry.rss) -> [mastodon_lawrencelry](rss/mastodon_lawrencelry.xml)
  - source030 [https://politepol.com/fd/NNLIg5PEAJ5L.xml](https://politepol.com/fd/NNLIg5PEAJ5L.xml) -> [Science & technology | The Economist](rss/Science%20%26%20technology%20%7C%20The%20Economist.xml)
  - source031 [https://politepol.com/fd/6UsKHJLrGfgp.xml](https://politepol.com/fd/6UsKHJLrGfgp.xml) -> [Briefing | The Economist](rss/Briefing%20%7C%20The%20Economist.xml)
- - source032 [https://siftrss.com/f/GkXXLdwbn3](https://siftrss.com/f/GkXXLdwbn3) -> [メディア掲載情報 | ニホンモニター株式会社](rss/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%20%7C%20%E3%83%8B%E3%83%9B%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.xml)
+ - source032 []() -> [](rss/.xml)
  - source033 []() -> [](rss/.xml)
  - source034 []() -> [](rss/.xml)
