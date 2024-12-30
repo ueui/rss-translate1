@@ -42,6 +42,6 @@
  - source029 [https://mastodon.social/@lawrencelry.rss](https://mastodon.social/@lawrencelry.rss) -> [mastodon_lawrencelry](rss/mastodon_lawrencelry.xml)
  - source030 [https://politepol.com/fd/NNLIg5PEAJ5L.xml](https://politepol.com/fd/NNLIg5PEAJ5L.xml) -> [Science & technology | The Economist](rss/Science%20%26%20technology%20%7C%20The%20Economist.xml)
  - source031 [https://politepol.com/fd/6UsKHJLrGfgp.xml](https://politepol.com/fd/6UsKHJLrGfgp.xml) -> [Briefing | The Economist](rss/Briefing%20%7C%20The%20Economist.xml)
- - source032 []() -> [](rss/.xml)
- - source033 []() -> [](rss/.xml)
+ - source032 [https://perezhilton.com/category/controversy/feed](https://perezhilton.com/category/controversy/feed) -> [Controversy Archives - Perez Hilton](rss/Controversy%20Archives%20-%20Perez%20Hilton.xml)
+ - source033 [https://perezhilton.com/category/love-line/feed](https://perezhilton.com/category/love-line/feed) -> [Love Line Archives - Perez Hilton](rss/Love%20Line%20Archives%20-%20Perez%20Hilton.xml)
  - source034 []() -> [](rss/.xml)
