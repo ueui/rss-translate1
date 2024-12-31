@@ -41,7 +41,7 @@ jobs:
           pip install requests
       - name: ls_show
         run: |
-          python baidutrans.py
+          python mygoogletrans.py
           ls -al rss/
              
       - name: Push changes to remote repository
