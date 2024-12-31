@@ -119,4 +119,12 @@
     <description></description>
     <lastBuildDate>Tue, 31 Dec 2024 07:07:02 GMT</lastBuildDate>
     </channel>
+ </rss><?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0">
+ <channel>
+    <title></title>
+    <link>https://mastodon.social/@lawrencelry</link>
+    <description></description>
+    <lastBuildDate>Tue, 31 Dec 2024 07:16:50 GMT</lastBuildDate>
+    </channel>
  </rss>
