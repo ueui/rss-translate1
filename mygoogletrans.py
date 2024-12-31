@@ -11,7 +11,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 from jinja2 import Template
-from pygtrans import translator
+from pygtrans import translate
 
 
 def get_md5_value(src):
