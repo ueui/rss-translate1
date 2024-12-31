@@ -112,4 +112,222 @@
       <pubDate>Fri, 27 Dec 2024 11:07:52 GMT</pubDate>
     </item>
     </channel>
-</rss>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0">
+ <channel>
+    <title></title>
+    <link>https://www.economist.com/weeklyedition/archive</link>
+    <description></description>
+    <lastBuildDate>Tue, 31 Dec 2024 07:06:37 GMT</lastBuildDate>
+    <item>
+        <title>Christmas double issue</title>
+        <link>https://www.economist.com/weeklyedition/2024-12-21</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-12-21</guid>
+        <pubDate>Fri, 27 Dec 2024 14:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Christmas double issue</title>
+        <link>https://www.economist.com/weeklyedition/2024-12-21</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-12-21</guid>
+        <pubDate>Fri, 27 Dec 2024 14:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>What now?</title>
+        <link>https://www.economist.com/weeklyedition/2024-12-14</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-12-14</guid>
+        <pubDate>Fri, 27 Dec 2024 14:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>What now?</title>
+        <link>https://www.economist.com/weeklyedition/2024-12-14</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-12-14</guid>
+        <pubDate>Fri, 27 Dec 2024 14:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>France steps into the unknown</title>
+        <link>https://www.economist.com/weeklyedition/2024-12-07</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-12-07</guid>
+        <pubDate>Fri, 27 Dec 2024 14:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>France steps into the unknown</title>
+        <link>https://www.economist.com/weeklyedition/2024-12-07</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-12-07</guid>
+        <pubDate>Fri, 27 Dec 2024 14:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The least bad deal for Ukraine</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-30</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-30</guid>
+        <pubDate>Fri, 27 Dec 2024 13:52:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The least bad deal for Ukraine</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-30</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-30</guid>
+        <pubDate>Fri, 27 Dec 2024 13:52:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Disrupter-in-chief</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-23</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-23</guid>
+        <pubDate>Fri, 27 Dec 2024 13:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Disrupter-in-chief</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-23</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-23</guid>
+        <pubDate>Fri, 27 Dec 2024 13:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>What’s about to hit the world economy?</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-16</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-16</guid>
+        <pubDate>Fri, 27 Dec 2024 13:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>What’s about to hit the world economy?</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-16</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-16</guid>
+        <pubDate>Fri, 27 Dec 2024 13:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Welcome to Trump’s world</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-09</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-09</guid>
+        <pubDate>Fri, 27 Dec 2024 13:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Welcome to Trump’s world</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-09</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-09</guid>
+        <pubDate>Fri, 27 Dec 2024 13:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>What could possibly go wrong?</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-02</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-02</guid>
+        <pubDate>Fri, 27 Dec 2024 12:52:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>What could possibly go wrong?</title>
+        <link>https://www.economist.com/weeklyedition/2024-11-02</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-11-02</guid>
+        <pubDate>Fri, 27 Dec 2024 12:52:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The everything drugs</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-26</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-26</guid>
+        <pubDate>Fri, 27 Dec 2024 12:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The everything drugs</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-26</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-26</guid>
+        <pubDate>Fri, 27 Dec 2024 12:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The envy of the world</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-19</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-19</guid>
+        <pubDate>Fri, 27 Dec 2024 12:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The envy of the world</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-19</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-19</guid>
+        <pubDate>Fri, 27 Dec 2024 12:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The Trumpification of American policy</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-12</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-12</guid>
+        <pubDate>Fri, 27 Dec 2024 12:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The Trumpification of American policy</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-12</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-12</guid>
+        <pubDate>Fri, 27 Dec 2024 12:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The year that shattered the Middle East</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-05</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-05</guid>
+        <pubDate>Fri, 27 Dec 2024 11:52:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>The year that shattered the Middle East</title>
+        <link>https://www.economist.com/weeklyedition/2024-10-05</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-10-05</guid>
+        <pubDate>Fri, 27 Dec 2024 11:52:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Crunch time for Ukraine</title>
+        <link>https://www.economist.com/weeklyedition/2024-09-28</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-09-28</guid>
+        <pubDate>Fri, 27 Dec 2024 11:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Crunch time for Ukraine</title>
+        <link>https://www.economist.com/weeklyedition/2024-09-28</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-09-28</guid>
+        <pubDate>Fri, 27 Dec 2024 11:37:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>How the poor stopped catching up</title>
+        <link>https://www.economist.com/weeklyedition/2024-09-21</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-09-21</guid>
+        <pubDate>Fri, 27 Dec 2024 11:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>How the poor stopped catching up</title>
+        <link>https://www.economist.com/weeklyedition/2024-09-21</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-09-21</guid>
+        <pubDate>Fri, 27 Dec 2024 11:22:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>How ugly will it get?</title>
+        <link>https://www.economist.com/weeklyedition/2024-09-14</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-09-14</guid>
+        <pubDate>Fri, 27 Dec 2024 11:07:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>How ugly will it get?</title>
+        <link>https://www.economist.com/weeklyedition/2024-09-14</link>
+        <description></description>
+        <guid isPermaLink="false">https://www.economist.com/weeklyedition/2024-09-14</guid>
+        <pubDate>Fri, 27 Dec 2024 11:07:52 GMT</pubDate>
+    </item>
+    </channel>
+ </rss>

@@ -20,4 +20,40 @@
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
-</rss>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0">
+ <channel>
+    <title></title>
+    <link>https://www.morganstanley.com/ideas?filter=market-trends</link>
+    <description></description>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 GMT</lastBuildDate>
+    <item>
+        <title>Why Institutional Investors Expect Sustainable Investing to Grow</title>
+        <link>https://www.morganstanley.com/ideas/sustainable-investing-asset-managers</link>
+        <description>Both asset managers and asset owners see sustainable assets growing in the next two years, though lack of data and greenwashing continue to be challenges.(Feed generated with FetchRSS)</description>
+        <guid isPermaLink="false">https://www.morganstanley.com/ideas/sustainable-investing-asset-managers</guid>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Why Institutional Investors Expect Sustainable Investing to Grow</title>
+        <link>https://www.morganstanley.com/ideas/sustainable-investing-asset-managers</link>
+        <description>Both asset managers and asset owners see sustainable assets growing in the next two years, though lack of data and greenwashing continue to be challenges.(Feed generated with FetchRSS)</description>
+        <guid isPermaLink="false">https://www.morganstanley.com/ideas/sustainable-investing-asset-managers</guid>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>2025 Global Economic Outlook: U.S. Policies May Temper Global Growth</title>
+        <link>https://www.morganstanley.com/ideas/global-macro-economy-outlook-2025</link>
+        <description>Global growth is likely to be around 3% in 2025 and 2026, as tariff and immigration policies begin to slow the U.S. economy late next year, and China’s underperformance restrains emerging markets.(Feed generated with FetchRSS)</description>
+        <guid isPermaLink="false">https://www.morganstanley.com/ideas/global-macro-economy-outlook-2025</guid>
+        <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>2025 Global Economic Outlook: U.S. Policies May Temper Global Growth</title>
+        <link>https://www.morganstanley.com/ideas/global-macro-economy-outlook-2025</link>
+        <description>Global growth is likely to be around 3% in 2025 and 2026, as tariff and immigration policies begin to slow the U.S. economy late next year, and China’s underperformance restrains emerging markets.(Feed generated with FetchRSS)</description>
+        <guid isPermaLink="false">https://www.morganstanley.com/ideas/global-macro-economy-outlook-2025</guid>
+        <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+ </rss>

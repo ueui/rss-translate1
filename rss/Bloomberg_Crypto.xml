@@ -20,4 +20,40 @@
       <pubDate>Mon, 30 Dec 2024 13:24:37 GMT</pubDate>
     </item>
     </channel>
-</rss>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0">
+ <channel>
+    <title></title>
+    <link>https://bloomberg.com/crypto/</link>
+    <description></description>
+    <lastBuildDate>Tue, 31 Dec 2024 07:05:51 GMT</lastBuildDate>
+    <item>
+        <title>BlackRock’s Bitcoin Fund Became ‘Greatest Launch in ETF History’</title>
+        <link>https://www.bloomberg.com/news/articles/2024-12-30/blackrock-s-bitcoin-fund-became-greatest-launch-in-etf-history</link>
+        <description>BlackRock Inc.’s iShares unit offers more than 1,400 exchange-traded funds around the world, yet none of them have performed quite like this.</description>
+        <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2024-12-30/blackrock-s-bitcoin-fund-became-greatest-launch-in-etf-history</guid>
+        <pubDate>Mon, 30 Dec 2024 14:12:53 GMT</pubDate>
+    </item>
+    <item>
+        <title>BlackRock’s Bitcoin Fund Became ‘Greatest Launch in ETF History’</title>
+        <link>https://www.bloomberg.com/news/articles/2024-12-30/blackrock-s-bitcoin-fund-became-greatest-launch-in-etf-history</link>
+        <description>BlackRock Inc.’s iShares unit offers more than 1,400 exchange-traded funds around the world, yet none of them have performed quite like this.</description>
+        <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2024-12-30/blackrock-s-bitcoin-fund-became-greatest-launch-in-etf-history</guid>
+        <pubDate>Mon, 30 Dec 2024 14:12:53 GMT</pubDate>
+    </item>
+    <item>
+        <title>MicroStrategy Buys $209 Million of Bitcoin as Purchases Lessen</title>
+        <link>https://www.bloomberg.com/news/articles/2024-12-30/microstrategy-buys-209-million-of-bitcoin-as-purchases-lessen</link>
+        <description>MicroStrategy Inc. said it bought $209 million of Bitcoin, marking the eighth consecutive week of purchases for the dot-com-era software maker turned leveraged proxy for the original cryptocurrency.</description>
+        <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2024-12-30/microstrategy-buys-209-million-of-bitcoin-as-purchases-lessen</guid>
+        <pubDate>Mon, 30 Dec 2024 13:24:37 GMT</pubDate>
+    </item>
+    <item>
+        <title>MicroStrategy Buys $209 Million of Bitcoin as Purchases Lessen</title>
+        <link>https://www.bloomberg.com/news/articles/2024-12-30/microstrategy-buys-209-million-of-bitcoin-as-purchases-lessen</link>
+        <description>MicroStrategy Inc. said it bought $209 million of Bitcoin, marking the eighth consecutive week of purchases for the dot-com-era software maker turned leveraged proxy for the original cryptocurrency.</description>
+        <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2024-12-30/microstrategy-buys-209-million-of-bitcoin-as-purchases-lessen</guid>
+        <pubDate>Mon, 30 Dec 2024 13:24:37 GMT</pubDate>
+    </item>
+    </channel>
+ </rss>
