@@ -4,7 +4,7 @@ name: circle_translate
 on:
 
   schedule:
-   - cron: '0 */3 * * *'
+   - cron: '0 */6 * * *'
   # 允许您从“操作”选项卡手动运行此工作流
   workflow_dispatch:
 
@@ -41,7 +41,7 @@ jobs:
           pip install requests
       - name: ls_show
         run: |
-          python my-mtranslate.py
+          python mygoogletrans.py
           ls -al rss/
              
       - name: Push changes to remote repository
