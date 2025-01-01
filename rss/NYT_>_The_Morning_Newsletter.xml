@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 14:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 11:17:27 GMT</lastBuildDate>
+    <item>
+      <title>谋杀案激增</title>
+      <link>https://www.nytimes.com/2025/01/01/briefing/murders-plunge.html</link>
+      <description><![CDATA[我们有个好消息要告诉你，2025 年就要开始了。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/briefing/murders-plunge.html</guid>
+      <pubDate>Wed, 01 Jan 2025 11:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>追踪苏丹的战争罪行</title>
       <link>https://www.nytimes.com/2024/12/31/briefing/sudan-war-crimes.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们的视觉记者一直在寻找创新的方式来报道重大新闻。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/briefing/best-times-graphics-of-2024.html</guid>
       <pubDate>Mon, 23 Dec 2024 11:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>鲍勃·迪伦之谜</title>
-      <link>https://www.nytimes.com/2024/12/22/briefing/bob-dylan-a-complete-unknown.html</link>
-      <description><![CDATA[我们报道了一部有关这位创作型歌手的新电影。]]></description>
-      <guid>https://www.nytimes.com/2024/12/22/briefing/bob-dylan-a-complete-unknown.html</guid>
-      <pubDate>Sun, 22 Dec 2024 12:34:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
