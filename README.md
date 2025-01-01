@@ -40,7 +40,7 @@
  - source027 [http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml](http://fetchrss.com/rss/5fd1017a86229a5e2b65bb52673f3f5ed80f9deefa0e5162.xml) -> [Henley_&_Partners_Press_Releases](rss/Henley_%26_Partners_Press_Releases.xml)
  - source028 [https://politepol.com/fd/NNLIg5PEAJ5L.xml](https://politepol.com/fd/NNLIg5PEAJ5L.xml) -> [Science & technology | The Economist](rss/Science%20%26%20technology%20%7C%20The%20Economist.xml)
  - source029 [https://mastodon.social/@lawrencelry.rss](https://mastodon.social/@lawrencelry.rss) -> [mastodon_lawrencelry](rss/mastodon_lawrencelry.xml)
- - source030 []() -> [test](rss/test.xml)
+ - source030 []() -> [](rss/.xml)
  - source031 []() -> [](rss/.xml)
  - source032 []() -> [](rss/.xml)
  - source033 []() -> [](rss/.xml)
