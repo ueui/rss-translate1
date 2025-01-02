@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 11:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 12:36:03 GMT</lastBuildDate>
+    <item>
+      <title>新奥尔良恐怖袭击</title>
+      <link>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</link>
+      <description><![CDATA[关于新年袭击，我们知道什么，不知道什么。]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</guid>
+      <pubDate>Thu, 02 Jan 2025 11:43:48 GMT</pubDate>
+    </item>
     <item>
       <title>谋杀案激增</title>
       <link>https://www.nytimes.com/2025/01/01/briefing/murders-plunge.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[以下是一些您可以在假期期间玩的游戏。]]></description>
       <guid>https://www.nytimes.com/2024/12/24/briefing/a-day-for-games.html</guid>
       <pubDate>Tue, 24 Dec 2024 11:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳时代图形</title>
-      <link>https://www.nytimes.com/2024/12/23/briefing/best-times-graphics-of-2024.html</link>
-      <description><![CDATA[我们的视觉记者一直在寻找创新的方式来报道重大新闻。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/briefing/best-times-graphics-of-2024.html</guid>
-      <pubDate>Mon, 23 Dec 2024 11:12:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
