@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Fri, 03 Jan 2025 04:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 11:13:09 GMT</lastBuildDate>
+    <item>
+      <title>当历史重演</title>
+      <link>https://www.nytimes.com/2025/01/03/briefing/donald-trump-grover-cleveland.html</link>
+      <description><![CDATA[我们介绍了唐纳德·特朗普与过去一位总统之间令人惊讶的相似之处。]]></description>
+      <guid>https://www.nytimes.com/2025/01/03/briefing/donald-trump-grover-cleveland.html</guid>
+      <pubDate>Fri, 03 Jan 2025 11:13:09 GMT</pubDate>
+    </item>
     <item>
       <title>新奥尔良恐怖袭击</title>
       <link>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[《时代观点》的工作人员分享了他们今年如何摆脱这一切。]]></description>
       <guid>https://www.nytimes.com/2024/12/25/briefing/memes-movies-music-2024.html</guid>
       <pubDate>Wed, 25 Dec 2024 11:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏日</title>
-      <link>https://www.nytimes.com/2024/12/24/briefing/a-day-for-games.html</link>
-      <description><![CDATA[以下是一些您可以在假期期间玩的游戏。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/briefing/a-day-for-games.html</guid>
-      <pubDate>Tue, 24 Dec 2024 11:51:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
