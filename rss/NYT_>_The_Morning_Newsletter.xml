@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 11:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 11:35:38 GMT</lastBuildDate>
+    <item>
+      <title>下一届国会</title>
+      <link>https://www.nytimes.com/2025/01/07/briefing/republican-congress-trump-mike-johnson.html</link>
+      <description><![CDATA[我们探讨了可能决定新国会的分歧——并有可能破坏唐纳德·特朗普的议程。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/briefing/republican-congress-trump-mike-johnson.html</guid>
+      <pubDate>Tue, 07 Jan 2025 11:35:38 GMT</pubDate>
+    </item>
     <item>
       <title>恐怖主义复苏</title>
       <link>https://www.nytimes.com/2025/01/06/briefing/isis-terrorism-resurgence.html</link>
@@ -36,7 +43,7 @@
     <item>
       <title>新奥尔良恐怖袭击</title>
       <link>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</link>
-      <description><![CDATA[关于新年袭击事件，我们知道什么，不知道什么。]]></description>
+      <description><![CDATA[关于新年袭击，我们知道什么，不知道什么。]]></description>
       <guid>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</guid>
       <pubDate>Thu, 02 Jan 2025 11:43:48 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[和我们一起写下来。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/briefing/the-case-for-resolutions.html</guid>
       <pubDate>Sun, 29 Dec 2024 11:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳建议</title>
-      <link>https://www.nytimes.com/2024/12/28/briefing/your-best-advice-of-2024.html</link>
-      <description><![CDATA[展望未来，以下是《晨报》读者今年收到的最佳建议。]]></description>
-      <guid>https://www.nytimes.com/2024/12/28/briefing/your-best-advice-of-2024.html</guid>
-      <pubDate>Sat, 28 Dec 2024 11:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

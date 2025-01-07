@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>李先生</title>
+    <title>劳伦斯·李</title>
     <link>https://mastodon.social/@lawrencelry</link>
     <description>来自@lawrencelry@mastodon.social 的公开帖子</description>
-    <lastBuildDate>Tue, 07 Jan 2025 06:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:49:55 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://mastodon.social/@lawrencelry/113785957861736077</link>
+      <description><![CDATA[https://micro.one（每月 1 美元，micro.blog 的入门级计划。）]]></description>
+      <guid>https://mastodon.social/@lawrencelry/113785957861736077</guid>
+      <pubDate>Tue, 07 Jan 2025 07:45:29 GMT</pubDate>
+    </item>
     <item>
       <title></title>
       <link>https://mastodon.social/@lawrencelry/113785028735588080</link>
-      <description><![CDATA[许知远那一代中国知识分子其实并不是通过英语来了解外面的世界的，他们更多的是通过阅读西方的译本。或许正因为如此，他们也无法用英语细致入微地解释中国。我有点惊讶，尽管许知远最近对日本着迷，但他竟然没有意识到日本知识分子自明治时期开始就已经开始用英语解释日本了。]]></description>
+      <description><![CDATA[许知远那一代中国知识分子其实并不是通过英语来了解外部世界的，他们更多的是通过阅读西方书籍的译本。或许正因为如此，他们也无法用英语细致入微地解释中国。我有点惊讶，尽管许知远最近对日本着迷，但他竟然没有意识到日本知识分子自明治时期开始就已经开始用英语解释日本了。]]></description>
       <guid>https://mastodon.social/@lawrencelry/113785028735588080</guid>
       <pubDate>Tue, 07 Jan 2025 03:49:11 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[椎名林檎依然是NHK红白歌合战中唯一一个使用竖版歌词的人，这也理所当然。]]></description>
       <guid>https://mastodon.social/@lawrencelry/113747467835305305</guid>
       <pubDate>Tue, 31 Dec 2024 12:36:58 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://mastodon.social/@lawrencelry/113746108718480597</link>
-      <description><![CDATA[我不记得这件事，但显然我在谷歌地图上创建了大泷荣一墓地的标记。]]></description>
-      <guid>https://mastodon.social/@lawrencelry/113746108718480597</guid>
-      <pubDate>Tue, 31 Dec 2024 06:51:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
