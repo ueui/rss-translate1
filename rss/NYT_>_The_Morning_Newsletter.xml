@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 19:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 11:51:59 GMT</lastBuildDate>
+    <item>
+      <title>南加州野火</title>
+      <link>https://www.nytimes.com/2025/01/08/briefing/southern-california-wildfires.html</link>
+      <description><![CDATA[我们报道了有关迅速蔓延的火灾的最新消息。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/briefing/southern-california-wildfires.html</guid>
+      <pubDate>Wed, 08 Jan 2025 11:51:59 GMT</pubDate>
+    </item>
     <item>
       <title>下一届国会</title>
       <link>https://www.nytimes.com/2025/01/07/briefing/republican-congress-trump-mike-johnson.html</link>
@@ -43,7 +50,7 @@
     <item>
       <title>新奥尔良恐怖袭击</title>
       <link>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</link>
-      <description><![CDATA[关于新年袭击，我们知道什么，不知道什么。]]></description>
+      <description><![CDATA[关于新年袭击事件，我们知道什么，不知道什么。]]></description>
       <guid>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</guid>
       <pubDate>Thu, 02 Jan 2025 11:43:48 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这位前总统去世，享年100岁。]]></description>
       <guid>https://www.nytimes.com/2024/12/30/briefing/jimmy-carter-dead.html</guid>
       <pubDate>Mon, 30 Dec 2024 11:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>决议案</title>
-      <link>https://www.nytimes.com/2024/12/29/briefing/the-case-for-resolutions.html</link>
-      <description><![CDATA[和我们一起写下来。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/briefing/the-case-for-resolutions.html</guid>
-      <pubDate>Sun, 29 Dec 2024 11:37:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
