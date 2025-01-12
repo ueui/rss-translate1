@@ -4,7 +4,14 @@
     <title>纽约时报 > 晨间新闻</title>
     <link>https://www.nytimes.com/series/us-morning-briefing</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 15:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 12:32:24 GMT</lastBuildDate>
+    <item>
+      <title>名人大亨</title>
+      <link>https://www.nytimes.com/2025/01/12/briefing/celebrity-brands.html</link>
+      <description><![CDATA[我们报道好莱坞创业精神的崛起。]]></description>
+      <guid>https://www.nytimes.com/2025/01/12/briefing/celebrity-brands.html</guid>
+      <pubDate>Sun, 12 Jan 2025 12:32:24 GMT</pubDate>
+    </item>
     <item>
       <title>火环</title>
       <link>https://www.nytimes.com/2025/01/09/briefing/california-los-angeles-wildfires.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们介绍了唐纳德·特朗普与过去一位总统之间令人惊讶的相似之处。]]></description>
       <guid>https://www.nytimes.com/2025/01/03/briefing/donald-trump-grover-cleveland.html</guid>
       <pubDate>Fri, 03 Jan 2025 11:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>新奥尔良恐怖袭击</title>
-      <link>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</link>
-      <description><![CDATA[关于新年袭击，我们知道什么，不知道什么。]]></description>
-      <guid>https://www.nytimes.com/2025/01/02/briefing/new-orleans-new-year-attack.html</guid>
-      <pubDate>Thu, 02 Jan 2025 11:43:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
