@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>评论和文章 | 兰德公司</title>
-    <link>https://www.rand.org/blog.html</link>
+    <link>https://www.rand.org/pubs.html</link>
     <description>兰德博客提供专家对最新世界新闻的评论和知情分析，以及对最重要政策问题的研究重点，例如健康、教育、国家安全、国际事务、法律和商业以及环境。</description>
-    <lastBuildDate>Fri, 10 Jan 2025 18:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 01:58:51 GMT</lastBuildDate>
+    <item>
+      <title>随着洛杉矶周边火灾持续肆虐，这里有一些恢复技巧和资源</title>
+      <link>https://www.rand.org/pubs/commentary/2025/01/as-fires-continue-to-burn-around-los-angeles-here-are.html</link>
+      <description><![CDATA[随着洛杉矶与持续不断的山火作斗争，数以万计的人面临流离失所。恢复工作现在开始，但长期治愈需要数年时间，需要社区支持和重建资源以及情感关怀。以下是一些关键步骤和资源，可提供帮助。（Feed 由 FetchRSS 生成）]]></description>
+      <guid>https://www.rand.org/pubs/commentary/2025/01/as-fires-continue-to-burn-around-los-angeles-here-are.html</guid>
+      <pubDate>Sun, 12 Jan 2025 01:58:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚叛军强烈呼吁国际社会协助解决化学武器问题</title>
+      <link>https://www.rand.org/pubs/commentary/2025/01/syrian-rebels-remarkable-call-for-international-help.html</link>
+      <description><![CDATA[叙利亚现任叛军组织“解放叙利亚” (HTS) 已寻求国际帮助，以摧毁巴沙尔·阿萨德的化学武器计划。值得注意的是，正是 HTS——一个有着暴力历史的非国家行为者——强调了全球规范反对此类武器的重要性。(Feed 由 FetchRSS 生成)]]></description>
+      <guid>https://www.rand.org/pubs/commentary/2025/01/syrian-rebels-remarkable-call-for-international-help.html</guid>
+      <pubDate>Sun, 12 Jan 2025 01:58:51 GMT</pubDate>
+    </item>
     <item>
       <title>美国盟友对全球安全成本究竟有何贡献？</title>
       <link>https://www.rand.org/pubs/commentary/2025/01/what-do-us-allies-really-contribute-to-the-costs-of.html</link>
@@ -15,7 +29,7 @@
     <item>
       <title>乌克兰决心坚定，但疲惫不堪</title>
       <link>https://www.rand.org/pubs/commentary/2025/01/ukraine-is-determined-but-tired.html</link>
-      <description><![CDATA[在基辅，乌克兰人表示坚决反对俄罗斯的侵略，但对战争感到厌倦。他们怀疑通过谈判实现和平的可能性，并强调军事力量和西方支持的重要性，将主权和统一作为未来治理的优先事项。（Feed 由 FetchRSS 生成）]]></description>
+      <description><![CDATA[在基辅，乌克兰人表示坚决反对俄罗斯的侵略，但对战争感到厌倦。他们怀疑通过谈判实现和平的可能性，并强调军事力量和西方支持的重要性，将主权和统一作为未来治理的重中之重。（Feed 由 FetchRSS 生成）]]></description>
       <guid>https://www.rand.org/pubs/commentary/2025/01/ukraine-is-determined-but-tired.html</guid>
       <pubDate>Fri, 10 Jan 2025 18:33:42 GMT</pubDate>
     </item>
