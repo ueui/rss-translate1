@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - source01 [https://mastodon.social/@lawrencelry.rss](https://mastodon.social/@lawrencelry.rss) -> [mastodon_lawrencelry](rss/mastodon_lawrencelry.xml)
+ - source02 [http://fetchrss.com/rss/620d11a970b7d17813242622678618d56ae0efa04b0a3f33.xml](http://fetchrss.com/rss/620d11a970b7d17813242622678618d56ae0efa04b0a3f33.xml) -> [test](rss/test.xml)
