@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>劳伦斯·李</title>
+    <title>李先生</title>
     <link>https://mastodon.social/@lawrencelry</link>
     <description>来自@lawrencelry@mastodon.social 的公开帖子</description>
-    <lastBuildDate>Sat, 01 Feb 2025 01:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 06:32:11 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://mastodon.social/@lawrencelry/113944116511045268</link>
+      <description><![CDATA[我是我的袖珍计算器的操作员。就是无法抗拒她和她的袖珍晶体管。]]></description>
+      <guid>https://mastodon.social/@lawrencelry/113944116511045268</guid>
+      <pubDate>Tue, 04 Feb 2025 06:07:18 GMT</pubDate>
+    </item>
     <item>
       <title></title>
       <link>https://mastodon.social/@lawrencelry/113925597668680588</link>
@@ -50,7 +57,7 @@
     <item>
       <title></title>
       <link>https://mastodon.social/@lawrencelry/113912400699540018</link>
-      <description><![CDATA[“过去，原声录音听起来很不舒服，因为压缩和失真迫使人们在聆听时在脑海中重建缺失的内容。”想象会让你感到不舒服吗？https://arbiterrecords.org/catalog/busoni-and-his-legacy/#:~:text=在过去的一段时间里，在收听录音时，人们会感到很不舒服，因为他们会将录音压缩并扭曲，而这会导致精神上和精神上都出现问题。]]></description>
+      <description><![CDATA[“过去，原声录音听起来很不舒服，因为压缩和失真迫使人们在聆听时在脑海中重建缺失的内容。”想象会让你感到不舒服吗？https://arbiterrecords.org/catalog/busoni-and-his-legacy/#:~:text=在过去的一段时间里，在聆听录音时，人们会感到很不舒服，因为录音压缩和失真会导致精神上出现问题。]]></description>
       <guid>https://mastodon.social/@lawrencelry/113912400699540018</guid>
       <pubDate>Wed, 29 Jan 2025 15:41:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/#:~:text=Google%20added%2C%20%22When%20official%20names%20vary%20between%20countries%2C%20Maps%20users%20see%20their%20official%20local%20name.%20Everyone%20in%20the%20rest%20the%20world%20sees%20both%20names.%20That%20applies%20here%20too.%22这对于日本与台湾以及日本与中国的钓鱼岛/尖阁诸岛争端都是如此。使用日本 IP 地址，您会看到钓鱼岛。切换到香港 IP，它会变成钓鱼岛。我无法访问台湾 IP，但应该也是钓鱼岛。您可以在其他地方看到这两个。https://maps.app.goo.gl/Agebwv5KHfzKQrJR6]]></description>
       <guid>https://mastodon.social/@lawrencelry/113906593981961256</guid>
       <pubDate>Tue, 28 Jan 2025 15:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://mastodon.social/@lawrencelry/113904898270028088</link>
-      <description><![CDATA[https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/“我的建议是什么？使用 RSS 阅读器，阅读 Twitter 列表而不是提要，并找到仍然存在真正讨论的空间（例如 LessWrong 和 Lobsters 似乎仍然没有废话）。”这是合理的建议，但在我看来，这条路直接通向那个无聊但同样合理的建议，叫做“去读书吧”。]]></description>
-      <guid>https://mastodon.social/@lawrencelry/113904898270028088</guid>
-      <pubDate>Tue, 28 Jan 2025 07:53:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
